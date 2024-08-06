@@ -1,0 +1,2 @@
+/Resources/cleaned_Canada_Glaciers.csv filter=lfs diff=lfs merge=lfs -text
+/Resources/glims_polygons.kml filter=lfs diff=lfs merge=lfs -text

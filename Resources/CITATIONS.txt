@@ -1,0 +1,1085 @@
+This file contains the citations for the data downloaded from the GLIMS
+Glacier Database.  All data are in the longitude/latitude coordinate system
+on the WGS-84 datum.
+
+Field names in the downloaded file are documented at
+  http://www.glims.org/MapsAndDocs/downloaded_field_desc.html
+
+When citing GLIMS data, please be sure to include all the information in
+the examples below, including the analyst's name.
+
+When referring to the GLIMS Initiative in general, please cite
+
+   Raup, B.H.; A. Racoviteanu; S.J.S. Khalsa; C. Helm; R. Armstrong; Y.
+   Arnaud (2007).  "The GLIMS Geospatial Glacier Database: a New Tool for
+   Studying Glacier Change".  Global and Planetary Change 56:101--110.
+   (doi:10.1016/j.gloplacha.2006.07.018)
+
+For the complete set of GLIMS glacier data (when using it for a global
+study of glaciers, for example), please cite
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    Boulder Colorado, USA.  NASA National Snow and Ice Data Center Distributed
+    Active Archive Center.  DOI: https://doi.org/10.7265/N5V98602  [Date
+    accessed].
+
+Specific citations for subsets of your download, by provider, are
+as follows:
+
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 1048, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 1451, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 1452, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 1453, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 1454, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 1455, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 1456, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 1457, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 1459, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4073, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4074, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4075, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4080, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4085, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4086, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4087, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4090, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4091, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4092, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4093, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4094, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4095, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4096, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4097, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4098, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4099, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4100, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4101, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4102, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4103, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4104, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4105, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4107, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4108, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4109, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4110, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4111, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4112, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4113, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4114, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4115, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4116, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4118, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4119, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4120, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4121, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 4171, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5093, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5094, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5095, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5097, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5098, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5101, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5102, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5103, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5105, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5106, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5107, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5108, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5110, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5111, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5112, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5114, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5116, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5117, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5118, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5119, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5120, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5121, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5122, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5123, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5124, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5125, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5126, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5127, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5128, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5129, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5130, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5131, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5286, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5287, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5288, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5289, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5290, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5291, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5292, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5293, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5294, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5295, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5296, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5297, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5298, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 5299, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53056, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53057, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53058, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53059, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53060, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53061, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53062, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53063, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53064, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53065, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53066, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53067, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53068, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 53069, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 57790, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 57791, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 57792, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 57793, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58025, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58026, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58027, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58028, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58029, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58030, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58031, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58032, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58033, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58034, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58035, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 58036, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 59591, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 59592, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 59593, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 59594, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 59595, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 59678, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 60410, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 60411, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 60412, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 60413, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 60414, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 60415, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 60416, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 60417, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_ID 63625, Beedle, Matthew (submitter); Beedle, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 86997--87287, Racoviteanu, Adina (submitter); Manley, William (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 87294--87409, Arendt, Anthony (submitter); Herreid, Samuel (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 87720--88029, Arendt, Anthony (submitter); Herreid, Samuel (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 97359--98137, Arendt, Anthony (submitter); Herreid, Samuel (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 363546--363587, Hoffman, Matthew (submitter); Fountain, Andrew G.; Hoffman, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 363588--363621, Hoffman, Matthew (submitter); Fountain, Andrew G.; Hoffman, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 363622--363660, Hoffman, Matthew (submitter); Fountain, Andrew G.; Hoffman, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 363661--363665, Hoffman, Matthew (submitter); Fountain, Andrew G.; Hoffman, Matthew (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 363666--372491, Paul, Frank (submitter); Frey, Holger; Le Bris, Raymond; Paul, Frank (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 372492--373496, Arendt, Anthony (submitter); Rich, Justin (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 373497--374779, Arendt, Anthony (submitter); Rich, Justin (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 374780--392326, Bolch, Tobias (submitter); Bolch, Tobias (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 392327--419233, Cogley, Graham (submitter); Beedle, Matthew; Berthier, Etienne; Bolch, Tobias; Burgess, Evan; Cogley, Graham; Forster, Richard; Giffen, Bruce A.; Hall, Dorothy K.; Kienholz, Christian; LeBris, Raymond; Manley, William (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 517935--518919, Mozer, Max Phillip (submitter); Mozer, Max Phillip; Pflug, Justin (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 702717--702757, Maraldo, Dean (submitter); Maraldo, Dean (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 702758--702798, Maraldo, Dean (submitter); Maraldo, Dean (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 702799--702839, Maraldo, Dean (submitter); Maraldo, Dean (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 702840--702880, Maraldo, Dean (submitter); Maraldo, Dean (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 702881--702921, Maraldo, Dean (submitter); Maraldo, Dean (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 714168--714207, Maraldo, Dean (submitter); Maraldo, Dean (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 761566--766732, Fountain, Andrew G. (submitter); Fountain, Andrew G. (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 974973--975014, McNabb, Robert (submitter); McNabb, Robert (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 975015--975059, McNabb, Robert (submitter); McNabb, Robert (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 980721--982200, Davies, Bethan (submitter); Bendle, Jacob; Davies, Bethan (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 995067--996889, Yang, Ruitang (submitter); Yang, Ruitang (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1004048--1005707, Yang, Ruitang (submitter); Yang, Ruitang (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1005708--1007354, Yang, Ruitang (submitter); Yang, Ruitang (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1010097--1011851, Yang, Ruitang (submitter); Paul, Frank; Yang, Ruitang (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1011852--1012282, Paul, Frank (submitter); Beedle, Matthew; Berthier, Etienne; Bolch, Tobias; Burgess, Evan; Cogley, Graham; Forster, Richard; Giffen, Bruce A.; Hall, Dorothy K.; Kienholz, Christian; LeBris, Raymond; Manley, William; Paul, Frank (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1012943--1015484, Fountain, Andrew G. (submitter); Fountain, Andrew G.; Glenn, Bryce; McNeil, Christopher (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1015485--1017302, Ruether, Brett (submitter); Ruether, Brett (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1039096--1039229, Fountain, Andrew G. (submitter); Fountain, Andrew G.; Glenn, Bryce (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1039230--1040448, Davies, Bethan (submitter); Davies, Bethan (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1040449--1041597, Davies, Bethan (submitter); Davies, Bethan (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1041598--1042738, Davies, Bethan (submitter); Davies, Bethan (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1042739--1043886, Davies, Bethan (submitter); Davies, Bethan (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1043887--1044927, Davies, Bethan (submitter); Davies, Bethan (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+
+    GLIMS Consortium, 2005. GLIMS Glacier Database, Version 1.
+    [Analysis_IDs 1044928--1045048, Davies, Bethan (submitter); Davies, Bethan (analyst(s))].
+    Boulder, Colorado, USA. NASA National Snow and Ice
+    Data Center Distributed Active Archive Center.
+    DOI: http://dx.doi.org/10.7265/N5V98602  [Date accessed]
+

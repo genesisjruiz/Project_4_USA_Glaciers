@@ -1,0 +1,1605 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="layer" id="layer">
+	<SimpleField name="inst_sname" type="string"></SimpleField>
+	<SimpleField name="orig_id" type="string"></SimpleField>
+	<SimpleField name="acq_time" type="string"></SimpleField>
+	<SimpleField name="est_loc" type="int"></SimpleField>
+</Schema>
+<Folder><name>layer</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Aerial08</SimpleData>
+		<SimpleData name="orig_id">colorado_grayscale_1990</SimpleData>
+		<SimpleData name="acq_time">1990-08-07 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.0,40.2,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Aerial08</SimpleData>
+		<SimpleData name="orig_id">colorado_grayscale_1999</SimpleData>
+		<SimpleData name="acq_time">1999-10-12 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.0,40.2,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Aerial09</SimpleData>
+		<SimpleData name="orig_id">rmnp_color_2001</SimpleData>
+		<SimpleData name="acq_time">2001-09-15 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-106.0,40.2,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">GE</SimpleData>
+		<SimpleData name="orig_id">Google_Earth_10/12/2015</SimpleData>
+		<SimpleData name="acq_time">2015-10-12 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">GE</SimpleData>
+		<SimpleData name="orig_id">Google_Earth_2013</SimpleData>
+		<SimpleData name="acq_time">2013-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">GE</SimpleData>
+		<SimpleData name="orig_id">Google_Earth_2015-10-09</SimpleData>
+		<SimpleData name="acq_time">2015-10-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">GE</SimpleData>
+		<SimpleData name="orig_id">Google_Earth_2016-08-19</SimpleData>
+		<SimpleData name="acq_time">2016-08-19 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">GE</SimpleData>
+		<SimpleData name="orig_id">Google_Earth__2016-09-07</SimpleData>
+		<SimpleData name="acq_time">2016-09-07 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">GE</SimpleData>
+		<SimpleData name="orig_id">Google_Earth_2016-09-27</SimpleData>
+		<SimpleData name="acq_time">2016-09-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">GE</SimpleData>
+		<SimpleData name="orig_id">Google_Earth_2020-10-15</SimpleData>
+		<SimpleData name="acq_time">2020-10-15 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">GE</SimpleData>
+		<SimpleData name="orig_id">Google_Earth_2020-10-19</SimpleData>
+		<SimpleData name="acq_time">2020-10-19 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">LiDAR</SimpleData>
+		<SimpleData name="orig_id">USGS_Lidar_2015</SimpleData>
+		<SimpleData name="acq_time">2015-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2015-08-17</SimpleData>
+		<SimpleData name="acq_time">2015-08-17 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2015-08-22</SimpleData>
+		<SimpleData name="acq_time">2015-08-22 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2015-09-01</SimpleData>
+		<SimpleData name="acq_time">2015-09-01 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2015-09-11</SimpleData>
+		<SimpleData name="acq_time">2015-09-11 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2015-09-12</SimpleData>
+		<SimpleData name="acq_time">2015-09-12 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2015-09-25</SimpleData>
+		<SimpleData name="acq_time">2015-09-25 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2015-10-05</SimpleData>
+		<SimpleData name="acq_time">2015-10-05 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2016-09-10</SimpleData>
+		<SimpleData name="acq_time">2016-09-10 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2018-09-17</SimpleData>
+		<SimpleData name="acq_time">2018-09-17 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2018-09-25</SimpleData>
+		<SimpleData name="acq_time">2018-09-25 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2019-08-20</SimpleData>
+		<SimpleData name="acq_time">2019-08-20 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2019-08-31</SimpleData>
+		<SimpleData name="acq_time">2019-08-31 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2020-09-20</SimpleData>
+		<SimpleData name="acq_time">2020-09-20 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Maxar</SimpleData>
+		<SimpleData name="orig_id">Maxar_2020-10-05</SimpleData>
+		<SimpleData name="acq_time">2020-10-05 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">NAIP_2013</SimpleData>
+		<SimpleData name="acq_time">2013-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">NAIP_2013_&amp;_2015</SimpleData>
+		<SimpleData name="acq_time">2013-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">NAIP_2014</SimpleData>
+		<SimpleData name="acq_time">2014-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">NAIP_2015</SimpleData>
+		<SimpleData name="acq_time">2015-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">NAIP_2016</SimpleData>
+		<SimpleData name="acq_time">2016-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">NAIP_2017</SimpleData>
+		<SimpleData name="acq_time">2017-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">NAIP_2018</SimpleData>
+		<SimpleData name="acq_time">2018-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">NAIP_2019</SimpleData>
+		<SimpleData name="acq_time">2019-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">terrasrvr</SimpleData>
+		<SimpleData name="orig_id">Terra_Server_2015</SimpleData>
+		<SimpleData name="acq_time">2015-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-110,45,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">ortho_1-1_1n_s_wa053_2017_1.SID</SimpleData>
+		<SimpleData name="acq_time">2017-09-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.7,46.8,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip</SimpleData>
+		<SimpleData name="orig_id">ortho_1-1_hn_s_wa053_2019_1.sid</SimpleData>
+		<SimpleData name="acq_time">2019-08-26 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-121.7,46.8,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">ASTER</SimpleData>
+		<SimpleData name="orig_id">ASTL1B 0408182005310201089001</SimpleData>
+		<SimpleData name="acq_time">2004-08-18 20:05:31</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-132.0,56.84,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">ASTER</SimpleData>
+		<SimpleData name="orig_id">ASTL1B 0308072011150201089001</SimpleData>
+		<SimpleData name="acq_time">2003-08-07 20:11:15</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-132.0,57.25,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">L71056020_02019990812</SimpleData>
+		<SimpleData name="acq_time">1999-08-12 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-132.0,57.31,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">ELP058R019_7T20010815</SimpleData>
+		<SimpleData name="acq_time">2001-08-15 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.0,58.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">MSI</SimpleData>
+		<SimpleData name="orig_id">T08VML_20190830T201859_TCI.jp2</SimpleData>
+		<SimpleData name="acq_time">2019-08-30 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.0,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">MSI</SimpleData>
+		<SimpleData name="orig_id">T08VML_20190907T203011_TCI.jp2</SimpleData>
+		<SimpleData name="acq_time">2019-09-07 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.0,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">MSI</SimpleData>
+		<SimpleData name="orig_id">T08VMM_20190907T203011_TCI.jp2</SimpleData>
+		<SimpleData name="acq_time">2019-09-07 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.0,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">MSI</SimpleData>
+		<SimpleData name="orig_id">T08VNK_20190901T200911_TCI.jp2</SimpleData>
+		<SimpleData name="acq_time">2019-09-01 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.0,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">MSI</SimpleData>
+		<SimpleData name="orig_id">T08VNL_20190901T200911_TCI.jp2</SimpleData>
+		<SimpleData name="acq_time">2019-09-01 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.0,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">MSI</SimpleData>
+		<SimpleData name="orig_id">T08VNM_20190906T200939_TCI.jp2</SimpleData>
+		<SimpleData name="acq_time">2019-09-01 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.0,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE07_L1TP_056019_20050812_20160925_01_T1</SimpleData>
+		<SimpleData name="acq_time">2005-08-12 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE07_L1TP_058018_20050810_20160924_01_T1</SimpleData>
+		<SimpleData name="acq_time">2005-08-10 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE07_L1TP_058019_20050810_20160924_01_T1</SimpleData>
+		<SimpleData name="acq_time">2005-08-10 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC08_L1TP_057019_20140820_20170304_01_T1</SimpleData>
+		<SimpleData name="acq_time">2014-08-20 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC08_L1TP_057019_20150706_20170226_01_T1</SimpleData>
+		<SimpleData name="acq_time">2015-07-06 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC08_L1TP_058019_20140827_20170303_01_T1</SimpleData>
+		<SimpleData name="acq_time">2014-08-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC08_L1TP_058019_20150814_20170226_01_T1</SimpleData>
+		<SimpleData name="acq_time">2015-08-14 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC08_L1TP_059018_20140802_20170304_01_T1</SimpleData>
+		<SimpleData name="acq_time">2014-08-02 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC80580192014239LGN00</SimpleData>
+		<SimpleData name="acq_time">2014-08-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">S2A_MSIL1C_20190901T200911_N0208_R028_T08VNK_20190901T233048</SimpleData>
+		<SimpleData name="acq_time">2019-09-01 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">S2A_MSIL1C_20190901T200911_N0208_R028_T08VNL_20190901T233048</SimpleData>
+		<SimpleData name="acq_time">2019-09-01 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">S2A_MSIL1C_20190907T203011_N0208_R114_T08VML_20190908T001020</SimpleData>
+		<SimpleData name="acq_time">2019-09-07 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">S2A_MSIL1C_20190907T203011_N0208_R114_T08VMM_20190908T001020</SimpleData>
+		<SimpleData name="acq_time">2019-09-07 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">S2B_MSIL1C_20190830T201859_N0208_R071_T08VML_20190830T221736</SimpleData>
+		<SimpleData name="acq_time">2019-08-30 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">S2B_MSIL1C_20190906T200939_N0208_R028_T08VNM_20190906T233631</SimpleData>
+		<SimpleData name="acq_time">2019-09-06 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">T08VNL_20190901T200911_TCI</SimpleData>
+		<SimpleData name="acq_time">2019-09-01 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">1979 AHAP ortho photo mosaic</SimpleData>
+		<SimpleData name="acq_time">1979-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LM30630191980218AAA03.tif</SimpleData>
+		<SimpleData name="acq_time">1980-08-05 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LM50580191990205PAC00.jpgf</SimpleData>
+		<SimpleData name="acq_time">1990-07-24 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LM50580191990237PAC00</SimpleData>
+		<SimpleData name="acq_time">1990-08-25 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LM50580191990269PAC00.jpg</SimpleData>
+		<SimpleData name="acq_time">1990-09-26 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_L1TP_058018_19910625_20160929_01_T1.tif</SimpleData>
+		<SimpleData name="acq_time">1991-06-25 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.6,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Aerial13</SimpleData>
+		<SimpleData name="orig_id">1979_AHAP_ortho_photo_mosaic</SimpleData>
+		<SimpleData name="acq_time">1979-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.7,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Aerial15</SimpleData>
+		<SimpleData name="orig_id">Block1_Orthomosaic_4m</SimpleData>
+		<SimpleData name="acq_time">1948-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.7,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Aerial15</SimpleData>
+		<SimpleData name="orig_id">Block2_Ortho_Mosaic._1948_survey</SimpleData>
+		<SimpleData name="acq_time">1948-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.7,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Aerial15</SimpleData>
+		<SimpleData name="orig_id">Block3_Orthomosaic_4m_1948</SimpleData>
+		<SimpleData name="acq_time">1948-09-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-134.7,59.7,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70590192010259EDC00</SimpleData>
+		<SimpleData name="acq_time">2010-09-16 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-136.539268442,58.7123574932,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">p059r019_7k19990801</SimpleData>
+		<SimpleData name="acq_time">1999-08-01 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-136.0,58.69,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70600192010266EDC01</SimpleData>
+		<SimpleData name="acq_time">2010-09-23 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-138.10848764,58.7098490391,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">p060r019_7p20010813</SimpleData>
+		<SimpleData name="acq_time">2001-08-13 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-138.0,59.13,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">p061r018_7p20010719</SimpleData>
+		<SimpleData name="acq_time">2001-07-19 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-138.0,60.1,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">EDC_ETM+ 08001102405190010</SimpleData>
+		<SimpleData name="acq_time">2000-08-31 20:28:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-141.0,60.1,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">p064r18_5t860925</SimpleData>
+		<SimpleData name="acq_time">2001-09-10 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.0,60.09,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE07_L1TP_064016_19990804_20161002_01_T1</SimpleData>
+		<SimpleData name="acq_time">1999-08-04 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.0,62.6,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_L1TP_065016_19990803_20160919_01_T1</SimpleData>
+		<SimpleData name="acq_time">1999-08-03 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.0,62.6,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE07_L1TP_070011_20000715_20200918_02_T1</SimpleData>
+		<SimpleData name="acq_time">2000-07-15 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.0,69.1,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE07_L1TP_070011_20050814_20200914_02_T1</SimpleData>
+		<SimpleData name="acq_time">2005-08-14 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-143.0,69.1,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">T06VXN</SimpleData>
+		<SimpleData name="acq_time">2019-08-12 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-144.152,60.811,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50660172009249GLC00</SimpleData>
+		<SimpleData name="acq_time">2009-09-06 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.338,61.4467,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70670162009216EDC00</SimpleData>
+		<SimpleData name="acq_time">2009-08-04 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.953831523824,62.8504204620583,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">T06VWN</SimpleData>
+		<SimpleData name="acq_time">2019-08-17 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-145.99,60.837,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70680152005228EDC00</SimpleData>
+		<SimpleData name="acq_time">2005-08-16 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-146.403186339165,64.2277187428783,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">SPOT5</SimpleData>
+		<SimpleData name="orig_id">54572230709222113571S</SimpleData>
+		<SimpleData name="acq_time">2007-09-22 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>146.773559,61.393713,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">ASTER</SimpleData>
+		<SimpleData name="orig_id">AST_L1A.003:2030399469</SimpleData>
+		<SimpleData name="acq_time">2005-08-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-146.846615356074,63.6276801169154,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70670172009184EDC00</SimpleData>
+		<SimpleData name="acq_time">2009-07-03 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>147.030333,61.474895,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70670172006256EDC00</SimpleData>
+		<SimpleData name="acq_time">2006-09-13 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>147.047867,61.481866,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">ASTER</SimpleData>
+		<SimpleData name="orig_id">AST_L1A.003:2074217270</SimpleData>
+		<SimpleData name="acq_time">2009-07-03 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.500606270026,63.7165353934336,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70680162009239EDC00</SimpleData>
+		<SimpleData name="acq_time">2009-08-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.508072478843,62.8553271010509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">T06VVM</SimpleData>
+		<SimpleData name="acq_time">2019-08-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.808,59.941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">T06VVN</SimpleData>
+		<SimpleData name="acq_time">2019-08-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.83,60.839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">T06VVP</SimpleData>
+		<SimpleData name="acq_time">2019-08-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.854,61.736,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70690152005203EDC00</SimpleData>
+		<SimpleData name="acq_time">2005-07-22 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-147.94197936438,64.2242313022719,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50680172009215GLC00</SimpleData>
+		<SimpleData name="acq_time">2009-08-03 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148.416,61.4465,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">L1MSS</SimpleData>
+		<SimpleData name="orig_id">p074r018_1dm19730817_z05_MS</SimpleData>
+		<SimpleData name="acq_time">1973-08-17 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">L2MSS</SimpleData>
+		<SimpleData name="orig_id">p074r017_2dm19750711_z06_MS</SimpleData>
+		<SimpleData name="acq_time">1975-07-11 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">L7067017_01720040806_PS</SimpleData>
+		<SimpleData name="acq_time">2004-08-06 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">L7067018_01820060727_PS</SimpleData>
+		<SimpleData name="acq_time">2006-07-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC08_AK_007007_20180720</SimpleData>
+		<SimpleData name="acq_time">2018-07-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC08_AK_007008_20180720</SimpleData>
+		<SimpleData name="acq_time">2018-07-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LE07_AK_007008_20180719</SimpleData>
+		<SimpleData name="acq_time">2018-07-19 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM4</SimpleData>
+		<SimpleData name="orig_id">p067r017_5dt19860728_z06_MS</SimpleData>
+		<SimpleData name="acq_time">1986-07-28 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM4</SimpleData>
+		<SimpleData name="orig_id">p067r018_5dt19860728_z06_MS</SimpleData>
+		<SimpleData name="acq_time">1986-07-28 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_AK_007007_19940927</SimpleData>
+		<SimpleData name="acq_time">1994-09-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_AK_007008_19940623</SimpleData>
+		<SimpleData name="acq_time">1994-06-23 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_AK_008007_19940929</SimpleData>
+		<SimpleData name="acq_time">1994-09-29 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_AK_008008_19940929</SimpleData>
+		<SimpleData name="acq_time">1994-09-29 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-148,61,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">SPOT5</SimpleData>
+		<SimpleData name="orig_id">54532240707162123031S</SimpleData>
+		<SimpleData name="acq_time">2007-07-16 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>148.740279,61.122623,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50680182006255GLC00</SimpleData>
+		<SimpleData name="acq_time">2006-09-12 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.398,60.0699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">T06VUM</SimpleData>
+		<SimpleData name="acq_time">2019-08-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.595,59.918,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">T06VUN</SimpleData>
+		<SimpleData name="acq_time">2019-08-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-149.667,60.815,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50690182009190GLC00</SimpleData>
+		<SimpleData name="acq_time">2009-07-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-150.923,60.0648,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50700172007240GLC00</SimpleData>
+		<SimpleData name="acq_time">2007-08-28 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-151.529,61.4542,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50700182007240GLC00</SimpleData>
+		<SimpleData name="acq_time">2007-08-28 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-152.491,60.0746,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50720172005232GLC00</SimpleData>
+		<SimpleData name="acq_time">2005-08-20 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.625,61.4578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50720172007238GLC02</SimpleData>
+		<SimpleData name="acq_time">2007-08-26 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.659,61.4632,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50710192005257GLC00</SimpleData>
+		<SimpleData name="acq_time">2005-09-14 00:00:00</SimpleData>
+		<SimpleData name="est_loc">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-154.986,58.6843,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">ASTER</SimpleData>
+		<SimpleData name="orig_id">AST_L1T_00308092005211851_20150510164811_78788</SimpleData>
+		<SimpleData name="acq_time">2005-08-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">ASTER</SimpleData>
+		<SimpleData name="orig_id">AST_L1T_00308142005213712_20150510183533_57254</SimpleData>
+		<SimpleData name="acq_time">2005-08-11 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">L5MSS</SimpleData>
+		<SimpleData name="orig_id">LM50680181986248AAA03</SimpleData>
+		<SimpleData name="acq_time">1986-09-05 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE07_L1TP_067018_19990926_20161003_01_T1</SimpleData>
+		<SimpleData name="acq_time">1999-09-20 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE07_L1TP_068018_20160830_20161005_01_T1</SimpleData>
+		<SimpleData name="acq_time">2016-08-30 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE07_L1TP_069018_20050908_20200914_02_T1</SimpleData>
+		<SimpleData name="acq_time">2005-09-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70690182005251EDC00</SimpleData>
+		<SimpleData name="acq_time">2005-09-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70690182015215EDC00</SimpleData>
+		<SimpleData name="acq_time">2015-08-03 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70700162003221EDC01</SimpleData>
+		<SimpleData name="acq_time">2003-08-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70700162009189EDC01</SimpleData>
+		<SimpleData name="acq_time">2009-07-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70710162004231EDC02</SimpleData>
+		<SimpleData name="acq_time">2004-08-18 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LE70710162007223EDC00</SimpleData>
+		<SimpleData name="acq_time">2007-08-11 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Landsat7</SimpleData>
+		<SimpleData name="orig_id">LT50710162010255GLC00</SimpleData>
+		<SimpleData name="acq_time">2010-09-12 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">naip2015</SimpleData>
+		<SimpleData name="orig_id">unknown</SimpleData>
+		<SimpleData name="acq_time">2015-08-01 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Null</SimpleData>
+		<SimpleData name="orig_id">None</SimpleData>
+		<SimpleData name="acq_time">None</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC08_L1TP_067018_20160831_20170222_01_T1</SimpleData>
+		<SimpleData name="acq_time">2016-08-31 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">OLI</SimpleData>
+		<SimpleData name="orig_id">LC80690182015223LGN00</SimpleData>
+		<SimpleData name="acq_time">2015-08-11 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">Sentinel2</SimpleData>
+		<SimpleData name="orig_id">S2A_OPER_MSI_L1C_TL_SGS__20160831T214025_20160831T232504_A006232_T05VPG_N02_04_01</SimpleData>
+		<SimpleData name="acq_time">2016-08-31 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_L1TP_067018_19860914_20161003_01_T1</SimpleData>
+		<SimpleData name="acq_time">1986-09-14 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_L1TP_067018_20050918_20160912_01_T1</SimpleData>
+		<SimpleData name="acq_time">2005-09-18 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_L1TP_068018_19940927_20160926_01_T1</SimpleData>
+		<SimpleData name="acq_time">1994-09-27 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_L1TP_068018_20050808_20160912_01_T1</SimpleData>
+		<SimpleData name="acq_time">2005-08-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_L1TP_068018_20050808_20200902_02_T1</SimpleData>
+		<SimpleData name="acq_time">2005-08-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_L1TP_069018_19950804_20160926_01_T1</SimpleData>
+		<SimpleData name="acq_time">1995-08-04 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT05_L1TP_069018_19950820_20160926_01_T1</SimpleData>
+		<SimpleData name="acq_time">1995-08-20 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5043024000624010</SimpleData>
+		<SimpleData name="acq_time">2006-08-28 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5043025000624010</SimpleData>
+		<SimpleData name="acq_time">2006-08-28 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5044024000623110</SimpleData>
+		<SimpleData name="acq_time">2006-08-19 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5044025000623110</SimpleData>
+		<SimpleData name="acq_time">2006-08-19 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5045024000623810</SimpleData>
+		<SimpleData name="acq_time">2006-08-26 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5045026000623810</SimpleData>
+		<SimpleData name="acq_time">2006-08-26 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5046023000622910</SimpleData>
+		<SimpleData name="acq_time">2006-08-17 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5046024000622910</SimpleData>
+		<SimpleData name="acq_time">2006-08-17 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5046026000427210</SimpleData>
+		<SimpleData name="acq_time">2004-09-28 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5047022000620410</SimpleData>
+		<SimpleData name="acq_time">2006-07-23 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5047023000423110</SimpleData>
+		<SimpleData name="acq_time">2004-08-18 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5047025000421510</SimpleData>
+		<SimpleData name="acq_time">2004-08-02 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5047026000524910</SimpleData>
+		<SimpleData name="acq_time">2005-09-06 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5048022000422210</SimpleData>
+		<SimpleData name="acq_time">2004-08-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5048024000422210</SimpleData>
+		<SimpleData name="acq_time">2004-08-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5048025000422210</SimpleData>
+		<SimpleData name="acq_time">2004-08-09 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5049024000421310</SimpleData>
+		<SimpleData name="acq_time">2004-07-31 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5049025000422910</SimpleData>
+		<SimpleData name="acq_time">2004-08-16 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5049026000418110</SimpleData>
+		<SimpleData name="acq_time">2006-07-21 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5050021000522210</SimpleData>
+		<SimpleData name="acq_time">2005-08-10 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5050024000420410</SimpleData>
+		<SimpleData name="acq_time">2004-07-22 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5050025000625710</SimpleData>
+		<SimpleData name="acq_time">2006-09-14 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50510202006232EDC0</SimpleData>
+		<SimpleData name="acq_time">2006-08-20 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5055019000517710</SimpleData>
+		<SimpleData name="acq_time">2005-08-13 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5056020000725410</SimpleData>
+		<SimpleData name="acq_time">2007-09-11 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT5057019000621010</SimpleData>
+		<SimpleData name="acq_time">2006-07-29 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50610182005251GLC0</SimpleData>
+		<SimpleData name="acq_time">2005-09-08 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">LT50690181986255XXX05</SimpleData>
+		<SimpleData name="acq_time">1986-09-12 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#layer">
+		<SimpleData name="inst_sname">TM5</SimpleData>
+		<SimpleData name="orig_id">n.a.</SimpleData>
+		<SimpleData name="acq_time">2006-08-20 00:00:00</SimpleData>
+		<SimpleData name="est_loc">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-3.1228605,54.65,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
