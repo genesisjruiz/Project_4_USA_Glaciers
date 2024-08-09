@@ -1,0 +1,1222 @@
+Glacier Name,Glacier Exists?,Area,Glacier Melt Record Date,Latitude,Longitude,Area Analysis Date,Temperature in F,state_id,state_name
+Brady Glacier,Exists,495.176,,58.385483,-136.675873,2006-05-01,46.77,AK,Alaska
+Marvine/Hayden Glacier,Exists,297.56,,59.96069,-140.10202,2007-08-01,55.43,AK,Alaska
+Johns Hopkins Glacier,Exists,162.882,,58.805875,-137.260638,2006-05-01,46.77,AK,Alaska
+Finger Glacier,Exists,35.4017,,58.457594,-137.162412,2006-05-01,46.77,AK,Alaska
+La Perouse Glacier,Exists,113.703,,58.52018,-137.328166,2006-05-01,46.77,AK,Alaska
+Steller Glacier,Exists,741.556,,60.296987,-143.870037,2006-04-01,42.9,AK,Alaska
+Seward Glacier,Exists,3211.8,,59.92591,-140.23062,2007-04-01,40.49,AK,Alaska
+Tweedsmuir Glacier,Exists,501.581,,59.831715,-138.149354,2007-11-01,55.5,AK,Alaska
+East Nunatak Glacier,Exists,70.7577,,59.786135,-138.772752,2007-05-01,44.85,AK,Alaska
+Hidden Glacier,Exists,55.2523,,59.735487,-139.151114,2007-05-01,44.85,AK,Alaska
+West Nunatak Glacier,Exists,87.6204,,59.750394,-138.915651,2007-05-01,44.85,AK,Alaska
+East Yakutat Glacier,Exists,359.025,,59.50512,-138.72468,2007-05-01,44.85,AK,Alaska
+Hubbard Glacier,Exists,2910.92,,60.002244,-139.36059,2007-08-01,55.43,AK,Alaska
+Novatak Glacier,Exists,126.185,,59.421213,-138.38592,2007-05-01,44.85,AK,Alaska
+Carroll Glacier,Exists,400.86,,59.028904,-136.459499,2007-04-01,40.49,AK,Alaska
+Lamplugh Glacier,Exists,133.881,,58.874451,-136.935832,2006-05-01,46.77,AK,Alaska
+Grand Plateau Glacier,Exists,383.689,,58.98445,-137.91017,2007-04-01,40.49,AK,Alaska
+Hayden,Exists,73.4037,,59.978541,-140.019668,2007-10-01,56.65,AK,Alaska
+Blossom Glacier,Exists,7.73568,,60.007745,-140.090472,2007-10-01,56.65,AK,Alaska
+Bering Glacier,Exists,3629.47,,60.43403,-143.01148,2007-04-01,40.49,AK,Alaska
+Martin River Glacier,Exists,349.102,,60.51844,-144.01596,2007-03-01,37.13,AK,Alaska
+Miles Glacier,Exists,382.882,,60.67431,-144.58396,2007-04-01,40.49,AK,Alaska
+Van Cleve Glacier,Exists,40.0665,,60.695309,-144.244764,2007-04-01,40.49,AK,Alaska
+Wernicke Glacier,Exists,105.487,,60.802183,-144.223268,2007-04-01,40.49,AK,Alaska
+Fan Glacier,Exists,164.449,,60.874959,-143.907576,2007-04-01,40.49,AK,Alaska
+White River Glacier,Exists,27.8374,,60.067377,-142.097207,2006-02-01,36.88,AK,Alaska
+Watson Glacier,Exists,103.495,,60.206297,-142.087199,2006-02-01,36.88,AK,Alaska
+Leeper Glacier,Exists,36.2084,,60.260135,-142.339841,2006-02-01,36.88,AK,Alaska
+Logan Glacier,Exists,126.829,,60.867051,-141.254512,2006-02-01,36.88,AK,Alaska
+Beare Glacier,Exists,7.96516,,60.010169,-141.666534,2006-02-01,36.88,AK,Alaska
+Agassiz Glacier,Exists,764.325,,60.09895,-140.72458,2006-02-01,36.88,AK,Alaska
+Baird Glacier,Exists,449.255,,57.121144,-132.819608,2006-06-01,50.77,AK,Alaska
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,VA,Virginia
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,AK,Alaska
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,IL,Illinois
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,WV,West Virginia
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,IN,Indiana
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,TX,Texas
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,MI,Michigan
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,KY,Kentucky
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,TN,Tennessee
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,PA,Pennsylvania
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,NE,Nebraska
+Patterson Glacier,Exists,85.1219,,56.979015,-132.613465,2006-04-01,42.9,ND,North Dakota
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,VA,Virginia
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,AK,Alaska
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,IL,Illinois
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,WV,West Virginia
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,IN,Indiana
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,TX,Texas
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,MI,Michigan
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,KY,Kentucky
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,TN,Tennessee
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,PA,Pennsylvania
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,NE,Nebraska
+Oasis Glacier,Exists,49.3846,,57.219964,-132.624582,2006-03-01,38.79,ND,North Dakota
+Margerie Glacier,Exists,121.826,,59.047196,-137.077091,2006-05-01,46.77,AK,Alaska
+Melbern Glacier,Exists,495.686,,59.06968,-137.04334,2007-04-01,40.49,AK,Alaska
+Allen Glacier,Exists,173.528,,60.755014,-144.8796,2014-12-01,52.53,AK,Alaska
+Allen Glacier,Exists,173.528,,60.755014,-144.8796,2014-12-01,52.53,AL,Alabama
+Allen Glacier,Exists,173.528,,60.755014,-144.8796,2014-12-01,52.53,NC,North Carolina
+Allen Glacier,Exists,173.528,,60.755014,-144.8796,2014-12-01,52.53,NM,New Mexico
+Allen Glacier,Exists,173.528,,60.755014,-144.8796,2014-12-01,52.53,IL,Illinois
+Allen Glacier,Exists,173.528,,60.755014,-144.8796,2014-12-01,52.53,MD,Maryland
+Allen Glacier,Exists,173.528,,60.755014,-144.8796,2014-12-01,52.53,SC,South Carolina
+Allen Glacier,Exists,173.528,,60.755014,-144.8796,2014-12-01,52.53,NE,Nebraska
+Dirty Glacier,Exists,3.4695,,60.947318,-148.416536,2014-12-01,52.53,CA,California
+Dirty Glacier,Exists,3.4695,,60.947318,-148.416536,2014-12-01,52.53,AK,Alaska
+Ranney Glacier,Exists,2.57649,,61.187103,-147.572663,2014-12-01,52.53,AK,Alaska
+Nellie Juan Glacier,Exists,43.2714,,60.447095,-148.418745,2014-12-01,52.53,CA,California
+Nellie Juan Glacier,Exists,43.2714,,60.447095,-148.418745,2014-12-01,52.53,AK,Alaska
+Lowell Glacier,Exists,3.17239,,60.834,-148.681217,2014-12-01,52.53,CA,California
+Lowell Glacier,Exists,3.17239,,60.834,-148.681217,2014-12-01,52.53,AK,Alaska
+Godwin Glacier,Exists,9.23313,,60.163681,-149.180169,2014-12-01,52.53,FL,Florida
+Godwin Glacier,Exists,9.23313,,60.163681,-149.180169,2014-12-01,52.53,AK,Alaska
+Godwin Glacier,Exists,9.23313,,60.163681,-149.180169,2014-12-01,52.53,AL,Alabama
+Godwin Glacier,Exists,9.23313,,60.163681,-149.180169,2014-12-01,52.53,TX,Texas
+Godwin Glacier,Exists,9.23313,,60.163681,-149.180169,2014-12-01,52.53,WI,Wisconsin
+Godwin Glacier,Exists,9.23313,,60.163681,-149.180169,2014-12-01,52.53,CA,California
+Portage Glacier,Exists,17.5316,,60.752595,-148.795502,2014-12-01,52.53,CA,California
+Portage Glacier,Exists,17.5316,,60.752595,-148.795502,2014-12-01,52.53,AK,Alaska
+Johnson Glacier,Exists,15.0795,,60.515159,-144.454344,2014-12-01,52.53,AK,Alaska
+Northland Glacier,Exists,20.8699,,60.665942,-148.78134,2014-12-01,52.53,CA,California
+Northland Glacier,Exists,20.8699,,60.665942,-148.78134,2014-12-01,52.53,AK,Alaska
+Surprise Glacier,Exists,62.8283,,61.038696,-148.453382,2014-12-01,52.53,CA,California
+Surprise Glacier,Exists,62.8283,,61.038696,-148.453382,2014-12-01,52.53,AK,Alaska
+Yale Glacier,Exists,152.245,,61.289851,-147.368866,2014-12-01,52.53,AK,Alaska
+Unnamed_41,Exists,20.384,,60.358302,-148.764638,2014-12-01,52.53,CA,California
+Unnamed_41,Exists,20.384,,60.358302,-148.764638,2014-12-01,52.53,AK,Alaska
+Unnamed_27,Exists,18.4129,,60.436263,-148.817638,2014-12-01,52.53,CA,California
+Unnamed_27,Exists,18.4129,,60.436263,-148.817638,2014-12-01,52.53,AK,Alaska
+Tigertail Glacier,Exists,5.93195,,60.247648,-148.395715,2014-12-01,52.53,AK,Alaska
+Heney Glacier,Exists,64.2539,,60.881898,-144.870981,2014-12-01,52.53,AK,Alaska
+Ultramarine Glacier,Exists,18.0424,,60.375362,-148.347747,2014-12-01,52.53,AK,Alaska
+Smith Glacier,Exists,16.0722,,61.249475,-147.777835,2014-12-01,52.53,AK,Alaska
+Slope Glacier,Exists,2.70395,,60.471214,-143.840672,2014-12-01,52.53,AK,Alaska
+Fickett Glacier,Exists,1.79438,,60.539721,-145.020678,2014-12-01,52.53,AK,Alaska
+Fickett Glacier,Exists,1.79438,,60.539721,-145.020678,2014-12-01,52.53,AL,Alabama
+Fickett Glacier,Exists,1.79438,,60.539721,-145.020678,2014-12-01,52.53,NC,North Carolina
+Fickett Glacier,Exists,1.79438,,60.539721,-145.020678,2014-12-01,52.53,NM,New Mexico
+Fickett Glacier,Exists,1.79438,,60.539721,-145.020678,2014-12-01,52.53,IL,Illinois
+Fickett Glacier,Exists,1.79438,,60.539721,-145.020678,2014-12-01,52.53,MD,Maryland
+Fickett Glacier,Exists,1.79438,,60.539721,-145.020678,2014-12-01,52.53,SC,South Carolina
+Fickett Glacier,Exists,1.79438,,60.539721,-145.020678,2014-12-01,52.53,NE,Nebraska
+Columbia Glacier,Exists,733.122,,61.336949,-146.652362,2014-12-01,52.53,AK,Alaska
+Crescent Glacier,Exists,7.21496,,60.974404,-147.822073,2014-12-01,52.53,CA,California
+Crescent Glacier,Exists,7.21496,,60.974404,-147.822073,2014-12-01,52.53,AK,Alaska
+Kings Glacier,Exists,4.51993,,60.425333,-148.580873,2014-12-01,52.53,CA,California
+Kings Glacier,Exists,4.51993,,60.425333,-148.580873,2014-12-01,52.53,AK,Alaska
+Unnamed_43,Exists,11.6798,,60.373274,-148.718653,2014-12-01,52.53,CA,California
+Unnamed_43,Exists,11.6798,,60.373274,-148.718653,2014-12-01,52.53,AK,Alaska
+Harvard Glacier,Exists,435.408,,61.329167,-147.532785,2014-12-01,52.53,AK,Alaska
+Exit Glacier,Exists,26.7319,,60.159808,-149.680757,2014-12-01,52.53,AK,Alaska
+Marquette Glacier,Exists,2.87143,,60.634954,-148.619097,2014-12-01,52.53,CA,California
+Marquette Glacier,Exists,2.87143,,60.634954,-148.619097,2014-12-01,52.53,AK,Alaska
+Cataract Glacier,Exists,3.06011,,61.029177,-148.411115,2014-12-01,52.53,CA,California
+Cataract Glacier,Exists,3.06011,,61.029177,-148.411115,2014-12-01,52.53,AK,Alaska
+Unnamed_33,Exists,11.9357,,60.552706,-148.690669,2014-12-01,52.53,CA,California
+Unnamed_33,Exists,11.9357,,60.552706,-148.690669,2014-12-01,52.53,AK,Alaska
+Princeton Glacier,Exists,43.4321,,60.322551,-148.411948,2014-12-01,52.53,AK,Alaska
+Schwan Glacier,Exists,114.122,,60.841864,-145.259371,2014-12-01,52.53,AK,Alaska
+Schwan Glacier,Exists,114.122,,60.841864,-145.259371,2014-12-01,52.53,AL,Alabama
+Schwan Glacier,Exists,114.122,,60.841864,-145.259371,2014-12-01,52.53,NC,North Carolina
+Schwan Glacier,Exists,114.122,,60.841864,-145.259371,2014-12-01,52.53,NM,New Mexico
+Schwan Glacier,Exists,114.122,,60.841864,-145.259371,2014-12-01,52.53,IL,Illinois
+Schwan Glacier,Exists,114.122,,60.841864,-145.259371,2014-12-01,52.53,MD,Maryland
+Schwan Glacier,Exists,114.122,,60.841864,-145.259371,2014-12-01,52.53,SC,South Carolina
+Schwan Glacier,Exists,114.122,,60.841864,-145.259371,2014-12-01,52.53,NE,Nebraska
+Bear Lake Glacier,Exists,6.10726,,60.166345,-149.257827,2014-12-01,52.53,FL,Florida
+Bear Lake Glacier,Exists,6.10726,,60.166345,-149.257827,2014-12-01,52.53,AK,Alaska
+Bear Lake Glacier,Exists,6.10726,,60.166345,-149.257827,2014-12-01,52.53,AL,Alabama
+Bear Lake Glacier,Exists,6.10726,,60.166345,-149.257827,2014-12-01,52.53,TX,Texas
+Bear Lake Glacier,Exists,6.10726,,60.166345,-149.257827,2014-12-01,52.53,WI,Wisconsin
+Bear Lake Glacier,Exists,6.10726,,60.166345,-149.257827,2014-12-01,52.53,CA,California
+Barnard Glacier,Exists,2.47972,,61.17204,-147.933734,2014-12-01,52.53,AK,Alaska
+First Branch Columbia Glacier,Exists,109.617,,61.223789,-147.102733,2014-12-01,52.53,AK,Alaska
+Pedro Glacier,Exists,5.37601,,61.133449,-147.338056,2014-12-01,52.53,AK,Alaska
+Sherman Glacier,Exists,44.8654,,60.564391,-145.034403,2014-12-01,52.53,AK,Alaska
+Sherman Glacier,Exists,44.8654,,60.564391,-145.034403,2014-12-01,52.53,AL,Alabama
+Sherman Glacier,Exists,44.8654,,60.564391,-145.034403,2014-12-01,52.53,NC,North Carolina
+Sherman Glacier,Exists,44.8654,,60.564391,-145.034403,2014-12-01,52.53,NM,New Mexico
+Sherman Glacier,Exists,44.8654,,60.564391,-145.034403,2014-12-01,52.53,IL,Illinois
+Sherman Glacier,Exists,44.8654,,60.564391,-145.034403,2014-12-01,52.53,MD,Maryland
+Sherman Glacier,Exists,44.8654,,60.564391,-145.034403,2014-12-01,52.53,SC,South Carolina
+Sherman Glacier,Exists,44.8654,,60.564391,-145.034403,2014-12-01,52.53,NE,Nebraska
+Excelsior Glacier,Exists,115.457,,60.058576,-148.766573,2014-12-01,52.53,FL,Florida
+Excelsior Glacier,Exists,115.457,,60.058576,-148.766573,2014-12-01,52.53,AK,Alaska
+Excelsior Glacier,Exists,115.457,,60.058576,-148.766573,2014-12-01,52.53,AL,Alabama
+Excelsior Glacier,Exists,115.457,,60.058576,-148.766573,2014-12-01,52.53,TX,Texas
+Excelsior Glacier,Exists,115.457,,60.058576,-148.766573,2014-12-01,52.53,WI,Wisconsin
+Excelsior Glacier,Exists,115.457,,60.058576,-148.766573,2014-12-01,52.53,CA,California
+Tommy Glacier,Exists,0.624934,,60.988874,-147.876789,2014-12-01,52.53,CA,California
+Tommy Glacier,Exists,0.624934,,60.988874,-147.876789,2014-12-01,52.53,AK,Alaska
+Learnard Glacier,Exists,3.49367,,60.799178,-148.722026,2014-12-01,52.53,CA,California
+Learnard Glacier,Exists,3.49367,,60.799178,-148.722026,2014-12-01,52.53,AK,Alaska
+Shephard Glacier,Exists,6.4079,,60.685068,-145.359056,2014-12-01,52.53,AK,Alaska
+Shephard Glacier,Exists,6.4079,,60.685068,-145.359056,2014-12-01,52.53,AL,Alabama
+Shephard Glacier,Exists,6.4079,,60.685068,-145.359056,2014-12-01,52.53,NC,North Carolina
+Shephard Glacier,Exists,6.4079,,60.685068,-145.359056,2014-12-01,52.53,NM,New Mexico
+Shephard Glacier,Exists,6.4079,,60.685068,-145.359056,2014-12-01,52.53,IL,Illinois
+Shephard Glacier,Exists,6.4079,,60.685068,-145.359056,2014-12-01,52.53,MD,Maryland
+Shephard Glacier,Exists,6.4079,,60.685068,-145.359056,2014-12-01,52.53,SC,South Carolina
+Shephard Glacier,Exists,6.4079,,60.685068,-145.359056,2014-12-01,52.53,NE,Nebraska
+Harriman Glacier,Exists,51.1153,,60.894604,-148.606258,2014-12-01,52.53,CA,California
+Harriman Glacier,Exists,51.1153,,60.894604,-148.606258,2014-12-01,52.53,AK,Alaska
+Applegate Glacier,Exists,1.55352,,60.451341,-148.591409,2014-12-01,52.53,CA,California
+Applegate Glacier,Exists,1.55352,,60.451341,-148.591409,2014-12-01,52.53,AK,Alaska
+Anderson Glacier,Exists,8.04314,,61.143,-146.75188,2014-12-01,52.53,AK,Alaska
+Vassar Glacier,Exists,8.65049,,61.214221,-147.868711,2014-12-01,52.53,AK,Alaska
+Goodwin Glacier,Exists,17.0361,,60.607077,-144.952333,2014-12-01,52.53,AK,Alaska
+Goodwin Glacier,Exists,17.0361,,60.607077,-144.952333,2014-12-01,52.53,AL,Alabama
+Goodwin Glacier,Exists,17.0361,,60.607077,-144.952333,2014-12-01,52.53,NC,North Carolina
+Goodwin Glacier,Exists,17.0361,,60.607077,-144.952333,2014-12-01,52.53,NM,New Mexico
+Goodwin Glacier,Exists,17.0361,,60.607077,-144.952333,2014-12-01,52.53,IL,Illinois
+Goodwin Glacier,Exists,17.0361,,60.607077,-144.952333,2014-12-01,52.53,MD,Maryland
+Goodwin Glacier,Exists,17.0361,,60.607077,-144.952333,2014-12-01,52.53,SC,South Carolina
+Goodwin Glacier,Exists,17.0361,,60.607077,-144.952333,2014-12-01,52.53,NE,Nebraska
+Baltimore Glacier,Exists,4.43757,,61.290914,-147.76073,2014-12-01,52.53,AK,Alaska
+Amherst Glacier,Exists,10.0483,,60.994106,-147.82036,2014-12-01,52.53,CA,California
+Amherst Glacier,Exists,10.0483,,60.994106,-147.82036,2014-12-01,52.53,AK,Alaska
+Bryn Mawr Glacier,Exists,22.4508,,61.235958,-147.824043,2014-12-01,52.53,AK,Alaska
+Tasnuna Glacier,Exists,26.116,,60.98867,-145.464692,2014-12-01,52.53,AK,Alaska
+Tasnuna Glacier,Exists,26.116,,60.98867,-145.464692,2014-12-01,52.53,AL,Alabama
+Tasnuna Glacier,Exists,26.116,,60.98867,-145.464692,2014-12-01,52.53,NC,North Carolina
+Tasnuna Glacier,Exists,26.116,,60.98867,-145.464692,2014-12-01,52.53,NM,New Mexico
+Tasnuna Glacier,Exists,26.116,,60.98867,-145.464692,2014-12-01,52.53,IL,Illinois
+Tasnuna Glacier,Exists,26.116,,60.98867,-145.464692,2014-12-01,52.53,MD,Maryland
+Tasnuna Glacier,Exists,26.116,,60.98867,-145.464692,2014-12-01,52.53,SC,South Carolina
+Tasnuna Glacier,Exists,26.116,,60.98867,-145.464692,2014-12-01,52.53,NE,Nebraska
+Contact Glacier,Exists,4.73414,,60.470617,-148.438639,2014-12-01,52.53,CA,California
+Contact Glacier,Exists,4.73414,,60.470617,-148.438639,2014-12-01,52.53,AK,Alaska
+Milk Glacier,Exists,1.88446,,61.044842,-149.067788,2014-12-01,52.53,AK,Alaska
+Milk Glacier,Exists,1.88446,,61.044842,-149.067788,2014-12-01,52.53,KY,Kentucky
+Rainy Glacier,Exists,4.48587,,60.649768,-148.543381,2014-12-01,52.53,CA,California
+Rainy Glacier,Exists,4.48587,,60.649768,-148.543381,2014-12-01,52.53,AK,Alaska
+Saddlebag Glacier,Exists,8.56501,,60.512821,-145.057749,2014-12-01,52.53,AK,Alaska
+Saddlebag Glacier,Exists,8.56501,,60.512821,-145.057749,2014-12-01,52.53,AL,Alabama
+Saddlebag Glacier,Exists,8.56501,,60.512821,-145.057749,2014-12-01,52.53,NC,North Carolina
+Saddlebag Glacier,Exists,8.56501,,60.512821,-145.057749,2014-12-01,52.53,NM,New Mexico
+Saddlebag Glacier,Exists,8.56501,,60.512821,-145.057749,2014-12-01,52.53,IL,Illinois
+Saddlebag Glacier,Exists,8.56501,,60.512821,-145.057749,2014-12-01,52.53,MD,Maryland
+Saddlebag Glacier,Exists,8.56501,,60.512821,-145.057749,2014-12-01,52.53,SC,South Carolina
+Saddlebag Glacier,Exists,8.56501,,60.512821,-145.057749,2014-12-01,52.53,NE,Nebraska
+Serpentine Glacier,Exists,25.7811,,61.142301,-148.277035,2014-12-01,52.53,CA,California
+Serpentine Glacier,Exists,25.7811,,61.142301,-148.277035,2014-12-01,52.53,AK,Alaska
+Scott Glacier,Exists,138.161,,60.641832,-145.348454,2014-12-01,52.53,AK,Alaska
+Scott Glacier,Exists,138.161,,60.641832,-145.348454,2014-12-01,52.53,AL,Alabama
+Scott Glacier,Exists,138.161,,60.641832,-145.348454,2014-12-01,52.53,NC,North Carolina
+Scott Glacier,Exists,138.161,,60.641832,-145.348454,2014-12-01,52.53,NM,New Mexico
+Scott Glacier,Exists,138.161,,60.641832,-145.348454,2014-12-01,52.53,IL,Illinois
+Scott Glacier,Exists,138.161,,60.641832,-145.348454,2014-12-01,52.53,MD,Maryland
+Scott Glacier,Exists,138.161,,60.641832,-145.348454,2014-12-01,52.53,SC,South Carolina
+Scott Glacier,Exists,138.161,,60.641832,-145.348454,2014-12-01,52.53,NE,Nebraska
+Beloit Glacier,Exists,25.5998,,60.631335,-148.686741,2014-12-01,52.53,CA,California
+Beloit Glacier,Exists,25.5998,,60.631335,-148.686741,2014-12-01,52.53,AK,Alaska
+Falling Glacier,Exists,13.1229,,60.449054,-148.520506,2014-12-01,52.53,CA,California
+Falling Glacier,Exists,13.1229,,60.449054,-148.520506,2014-12-01,52.53,AK,Alaska
+Unnamed_23,Exists,49.3992,,60.49831,-148.958038,2014-12-01,52.53,AK,Alaska
+Unnamed_23,Exists,49.3992,,60.49831,-148.958038,2014-12-01,52.53,NE,Nebraska
+Twentymile Glacier,Exists,24.3524,,60.92986,-148.670583,2014-12-01,52.53,CA,California
+Twentymile Glacier,Exists,24.3524,,60.92986,-148.670583,2014-12-01,52.53,AK,Alaska
+Lafayette Glacier,Exists,7.05684,,60.999145,-147.78333,2014-12-01,52.53,AK,Alaska
+Woodworth Glacier,Exists,166.106,,60.87851,-145.482329,2014-12-01,52.53,AK,Alaska
+Woodworth Glacier,Exists,166.106,,60.87851,-145.482329,2014-12-01,52.53,AL,Alabama
+Woodworth Glacier,Exists,166.106,,60.87851,-145.482329,2014-12-01,52.53,NC,North Carolina
+Woodworth Glacier,Exists,166.106,,60.87851,-145.482329,2014-12-01,52.53,NM,New Mexico
+Woodworth Glacier,Exists,166.106,,60.87851,-145.482329,2014-12-01,52.53,IL,Illinois
+Woodworth Glacier,Exists,166.106,,60.87851,-145.482329,2014-12-01,52.53,MD,Maryland
+Woodworth Glacier,Exists,166.106,,60.87851,-145.482329,2014-12-01,52.53,SC,South Carolina
+Woodworth Glacier,Exists,166.106,,60.87851,-145.482329,2014-12-01,52.53,NE,Nebraska
+Childs Glacier,Exists,92.8029,,60.676835,-144.808746,2014-12-01,52.53,AK,Alaska
+Childs Glacier,Exists,92.8029,,60.676835,-144.808746,2014-12-01,52.53,AL,Alabama
+Childs Glacier,Exists,92.8029,,60.676835,-144.808746,2014-12-01,52.53,NC,North Carolina
+Childs Glacier,Exists,92.8029,,60.676835,-144.808746,2014-12-01,52.53,NM,New Mexico
+Childs Glacier,Exists,92.8029,,60.676835,-144.808746,2014-12-01,52.53,IL,Illinois
+Childs Glacier,Exists,92.8029,,60.676835,-144.808746,2014-12-01,52.53,MD,Maryland
+Childs Glacier,Exists,92.8029,,60.676835,-144.808746,2014-12-01,52.53,SC,South Carolina
+Childs Glacier,Exists,92.8029,,60.676835,-144.808746,2014-12-01,52.53,NE,Nebraska
+Burns Glacier,Exists,9.74594,,60.709863,-148.711934,2014-12-01,52.53,CA,California
+Burns Glacier,Exists,9.74594,,60.709863,-148.711934,2014-12-01,52.53,AK,Alaska
+Langdon Glacier,Exists,13.0966,,60.415628,-148.613741,2014-12-01,52.53,CA,California
+Langdon Glacier,Exists,13.0966,,60.415628,-148.613741,2014-12-01,52.53,AK,Alaska
+Cleave Creek Glacier,Exists,25.1893,,61.101294,-145.21073,2014-12-01,52.53,AK,Alaska
+Marshall Glacier,Exists,10.139,,61.032318,-145.538066,2014-12-01,52.53,AK,Alaska
+Marshall Glacier,Exists,10.139,,61.032318,-145.538066,2014-12-01,52.53,AL,Alabama
+Marshall Glacier,Exists,10.139,,61.032318,-145.538066,2014-12-01,52.53,NC,North Carolina
+Marshall Glacier,Exists,10.139,,61.032318,-145.538066,2014-12-01,52.53,NM,New Mexico
+Marshall Glacier,Exists,10.139,,61.032318,-145.538066,2014-12-01,52.53,IL,Illinois
+Marshall Glacier,Exists,10.139,,61.032318,-145.538066,2014-12-01,52.53,MD,Maryland
+Marshall Glacier,Exists,10.139,,61.032318,-145.538066,2014-12-01,52.53,SC,South Carolina
+Marshall Glacier,Exists,10.139,,61.032318,-145.538066,2014-12-01,52.53,NE,Nebraska
+Cordova Glacier,Exists,33.6987,,60.820817,-145.645165,2014-12-01,52.53,AK,Alaska
+Cordova Glacier,Exists,33.6987,,60.820817,-145.645165,2014-12-01,52.53,AL,Alabama
+Cordova Glacier,Exists,33.6987,,60.820817,-145.645165,2014-12-01,52.53,NC,North Carolina
+Cordova Glacier,Exists,33.6987,,60.820817,-145.645165,2014-12-01,52.53,NM,New Mexico
+Cordova Glacier,Exists,33.6987,,60.820817,-145.645165,2014-12-01,52.53,IL,Illinois
+Cordova Glacier,Exists,33.6987,,60.820817,-145.645165,2014-12-01,52.53,MD,Maryland
+Cordova Glacier,Exists,33.6987,,60.820817,-145.645165,2014-12-01,52.53,SC,South Carolina
+Cordova Glacier,Exists,33.6987,,60.820817,-145.645165,2014-12-01,52.53,NE,Nebraska
+Downer Glacier,Exists,3.96606,,61.264985,-147.615601,2014-12-01,52.53,AK,Alaska
+Unnamed_2,Exists,10.5437,,60.989172,-148.688671,2014-12-01,52.53,CA,California
+Unnamed_2,Exists,10.5437,,60.989172,-148.688671,2014-12-01,52.53,AK,Alaska
+Taylor Glacier,Exists,12.4253,,60.566563,-148.585937,2014-12-01,52.53,CA,California
+Taylor Glacier,Exists,12.4253,,60.566563,-148.585937,2014-12-01,52.53,AK,Alaska
+McCune Glacier,Exists,9.32884,,60.843644,-144.848869,2014-12-01,52.53,AK,Alaska
+Cap Glacier,Exists,1.57789,,60.948213,-147.919786,2014-12-01,52.53,CA,California
+Cap Glacier,Exists,1.57789,,60.948213,-147.919786,2014-12-01,52.53,AK,Alaska
+Holyoke Glacier,Exists,2.60089,,61.162088,-147.970053,2014-12-01,52.53,AK,Alaska
+McPherson Glacier,Exists,20.5675,,60.539987,-144.611785,2014-12-01,52.53,AK,Alaska
+McPherson Glacier,Exists,20.5675,,60.539987,-144.611785,2014-12-01,52.53,AL,Alabama
+McPherson Glacier,Exists,20.5675,,60.539987,-144.611785,2014-12-01,52.53,NC,North Carolina
+McPherson Glacier,Exists,20.5675,,60.539987,-144.611785,2014-12-01,52.53,NM,New Mexico
+McPherson Glacier,Exists,20.5675,,60.539987,-144.611785,2014-12-01,52.53,IL,Illinois
+McPherson Glacier,Exists,20.5675,,60.539987,-144.611785,2014-12-01,52.53,MD,Maryland
+McPherson Glacier,Exists,20.5675,,60.539987,-144.611785,2014-12-01,52.53,SC,South Carolina
+McPherson Glacier,Exists,20.5675,,60.539987,-144.611785,2014-12-01,52.53,NE,Nebraska
+Shiels Glacier,Exists,2.5923,,60.863737,-144.784578,2014-12-01,52.53,AK,Alaska
+Grinnell Glacier,Exists,6.07452,,60.703131,-144.824007,2014-12-01,52.53,AK,Alaska
+Grinnell Glacier,Exists,6.07452,,60.703131,-144.824007,2014-12-01,52.53,AL,Alabama
+Grinnell Glacier,Exists,6.07452,,60.703131,-144.824007,2014-12-01,52.53,NC,North Carolina
+Grinnell Glacier,Exists,6.07452,,60.703131,-144.824007,2014-12-01,52.53,NM,New Mexico
+Grinnell Glacier,Exists,6.07452,,60.703131,-144.824007,2014-12-01,52.53,IL,Illinois
+Grinnell Glacier,Exists,6.07452,,60.703131,-144.824007,2014-12-01,52.53,MD,Maryland
+Grinnell Glacier,Exists,6.07452,,60.703131,-144.824007,2014-12-01,52.53,SC,South Carolina
+Grinnell Glacier,Exists,6.07452,,60.703131,-144.824007,2014-12-01,52.53,NE,Nebraska
+Lawrence Glacier,Exists,5.1775,,60.640447,-148.610413,2014-12-01,52.53,CA,California
+Lawrence Glacier,Exists,5.1775,,60.640447,-148.610413,2014-12-01,52.53,AK,Alaska
+Spencer Glacier,Exists,77.2178,,60.592189,-148.925369,2014-12-01,52.53,CA,California
+Spencer Glacier,Exists,77.2178,,60.592189,-148.925369,2014-12-01,52.53,AK,Alaska
+Shakespeare Glacier,Exists,1.4914,,60.755377,-148.731977,2014-12-01,52.53,CA,California
+Shakespeare Glacier,Exists,1.4914,,60.755377,-148.731977,2014-12-01,52.53,AK,Alaska
+Mineral Creek Glacier,Exists,3.84712,,61.270924,-146.294852,2014-12-01,52.53,AK,Alaska
+Mineral Creek Glacier,Exists,3.84712,,61.270924,-146.294852,2014-12-01,52.53,CO,Colorado
+Wellesley Glacier,Exists,13.2576,,61.18633,-147.914074,2014-12-01,52.53,AK,Alaska
+Wolverine Glacier,Exists,16.5713,,60.389003,-148.906829,2014-12-01,52.53,AK,Alaska
+Wolverine Glacier,Exists,16.5713,,60.389003,-148.906829,2014-12-01,52.53,NE,Nebraska
+Cascade Glacier,Exists,14.0301,,61.132456,-148.194935,2014-12-01,52.53,CA,California
+Cascade Glacier,Exists,14.0301,,61.132456,-148.194935,2014-12-01,52.53,AK,Alaska
+Claremont Glacier,Exists,4.00205,,60.516492,-148.725219,2014-12-01,52.53,CA,California
+Claremont Glacier,Exists,4.00205,,60.516492,-148.725219,2014-12-01,52.53,AK,Alaska
+Baker Glacier,Exists,2.79502,,61.078604,-148.380874,2014-12-01,52.53,CA,California
+Baker Glacier,Exists,2.79502,,61.078604,-148.380874,2014-12-01,52.53,AK,Alaska
+Chenega Glacier,Exists,373.282,,60.238822,-148.420701,2014-12-01,52.53,AK,Alaska
+Unnamed_30,Exists,13.923,,60.495041,-148.7635,2014-12-01,52.53,CA,California
+Unnamed_30,Exists,13.923,,60.495041,-148.7635,2014-12-01,52.53,AK,Alaska
+Williams Glacier,Exists,1.48747,,61.057541,-147.766428,2014-12-01,52.53,AK,Alaska
+Bartlett Glacier,Exists,9.5964,,60.602723,-148.959028,2014-12-01,52.53,CA,California
+Bartlett Glacier,Exists,9.5964,,60.602723,-148.959028,2014-12-01,52.53,AK,Alaska
+Barry Glacier,Exists,86.4521,,61.163278,-148.118408,2014-12-01,52.53,CA,California
+Barry Glacier,Exists,86.4521,,61.163278,-148.118408,2014-12-01,52.53,AK,Alaska
+Bainbridge Glacier,Exists,40.1332,,60.109146,-148.403778,2014-12-01,52.53,AK,Alaska
+Unnamed_40,Exists,18.9617,,60.284327,-148.872306,2014-12-01,52.53,AK,Alaska
+Unnamed_40,Exists,18.9617,,60.284327,-148.872306,2014-12-01,52.53,NE,Nebraska
+Tiger Glacier,Exists,53.7925,,60.155853,-148.463705,2014-12-01,52.53,AK,Alaska
+Meares Glacier,Exists,119.263,,61.146463,-147.511129,2014-12-01,52.53,AK,Alaska
+Cotterell Glacier,Exists,13.3441,,60.602293,-148.631708,2014-12-01,52.53,CA,California
+Cotterell Glacier,Exists,13.3441,,60.602293,-148.631708,2014-12-01,52.53,AK,Alaska
+Seth Glacier,Exists,2.7316,,60.868687,-148.518213,2014-12-01,52.53,CA,California
+Seth Glacier,Exists,2.7316,,60.868687,-148.518213,2014-12-01,52.53,AK,Alaska
+Pigot Glacier,Exists,11.4761,,60.889756,-148.507784,2014-12-01,52.53,CA,California
+Pigot Glacier,Exists,11.4761,,60.889756,-148.507784,2014-12-01,52.53,AK,Alaska
+Concordia Glacier,Exists,3.53733,,60.700922,-148.734543,2014-12-01,52.53,CA,California
+Concordia Glacier,Exists,3.53733,,60.700922,-148.734543,2014-12-01,52.53,AK,Alaska
+Billings Glacier,Exists,11.2643,,60.854024,-148.592803,2014-12-01,52.53,CA,California
+Billings Glacier,Exists,11.2643,,60.854024,-148.592803,2014-12-01,52.53,AK,Alaska
+Skookum Glacier,Exists,8.84198,,60.694149,-148.852411,2014-12-01,52.53,CA,California
+Skookum Glacier,Exists,8.84198,,60.694149,-148.852411,2014-12-01,52.53,AK,Alaska
+LaGorce Glacier,Exists,3.14548,,60.727502,-144.445987,2014-12-01,52.53,AK,Alaska
+Dartmouth Glacier,Exists,3.81127,,61.154465,-147.616042,2014-12-01,52.53,AK,Alaska
+Ellsworth Glacier,Exists,112.691,,60.16715,-148.934436,2014-12-01,52.53,FL,Florida
+Ellsworth Glacier,Exists,112.691,,60.16715,-148.934436,2014-12-01,52.53,AK,Alaska
+Ellsworth Glacier,Exists,112.691,,60.16715,-148.934436,2014-12-01,52.53,AL,Alabama
+Ellsworth Glacier,Exists,112.691,,60.16715,-148.934436,2014-12-01,52.53,TX,Texas
+Ellsworth Glacier,Exists,112.691,,60.16715,-148.934436,2014-12-01,52.53,WI,Wisconsin
+Ellsworth Glacier,Exists,112.691,,60.16715,-148.934436,2014-12-01,52.53,CA,California
+Whittier Glacier,Exists,6.42804,,60.741387,-148.676187,2014-12-01,52.53,CA,California
+Whittier Glacier,Exists,6.42804,,60.741387,-148.676187,2014-12-01,52.53,AK,Alaska
+Trail Glacier,Exists,13.5779,,60.552902,-148.934341,2014-12-01,52.53,CA,California
+Trail Glacier,Exists,13.5779,,60.552902,-148.934341,2014-12-01,52.53,AK,Alaska
+Slide Glacier,Exists,14.537,,60.517957,-144.317466,2014-12-01,52.53,AK,Alaska
+Sheridan Glacier,Exists,85.2195,,60.556037,-145.302856,2014-12-01,52.53,AK,Alaska
+Sheridan Glacier,Exists,85.2195,,60.556037,-145.302856,2014-12-01,52.53,AL,Alabama
+Sheridan Glacier,Exists,85.2195,,60.556037,-145.302856,2014-12-01,52.53,NC,North Carolina
+Sheridan Glacier,Exists,85.2195,,60.556037,-145.302856,2014-12-01,52.53,NM,New Mexico
+Sheridan Glacier,Exists,85.2195,,60.556037,-145.302856,2014-12-01,52.53,IL,Illinois
+Sheridan Glacier,Exists,85.2195,,60.556037,-145.302856,2014-12-01,52.53,MD,Maryland
+Sheridan Glacier,Exists,85.2195,,60.556037,-145.302856,2014-12-01,52.53,SC,South Carolina
+Sheridan Glacier,Exists,85.2195,,60.556037,-145.302856,2014-12-01,52.53,NE,Nebraska
+Tebenkof Glacier,Exists,20.6258,,60.670242,-148.566691,2014-12-01,52.53,CA,California
+Tebenkof Glacier,Exists,20.6258,,60.670242,-148.566691,2014-12-01,52.53,AK,Alaska
+Triumvirate Glacier,Exists,341.521,,61.586898,-152.188198,2015-07-01,52.96,AK,Alaska
+Nugget Creek Glacier,Exists,0.215014,,58.420449,-134.382612,2015-07-01,52.96,AK,Alaska
+Nugget Creek Glacier,Exists,0.215014,,58.420449,-134.382612,2015-07-01,52.96,WI,Wisconsin
+Jarvis Glacier,Exists,54.5235,,59.508501,-136.608172,2015-07-01,52.96,AK,Alaska
+Tsirku Glacier,Exists,111.489,,59.417071,-136.654201,2015-07-01,52.96,AK,Alaska
+Little Jarvis Glacier,Exists,1.7992,,59.39543,-136.409949,2015-07-01,52.96,AK,Alaska
+Sylvester Glacier,Exists,81.9735,,61.524743,-147.018779,2015-07-01,52.96,AK,Alaska
+Coxe Glacier,Exists,19.282,,61.176069,-147.974978,2015-07-01,52.96,AK,Alaska
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,VA,Virginia
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,AK,Alaska
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,IL,Illinois
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,WV,West Virginia
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,IN,Indiana
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,TX,Texas
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,MI,Michigan
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,KY,Kentucky
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,TN,Tennessee
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,PA,Pennsylvania
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,NE,Nebraska
+North Baird Glacier,Exists,90.2877,,57.318736,-132.633385,2015-07-01,52.96,ND,North Dakota
+Neacola Glacier,Exists,51.6916,,60.852087,-153.34442,2015-07-01,52.96,AK,Alaska
+Norris Glacier,Exists,0.085333,,58.506445,-134.242744,2015-07-01,52.96,AK,Alaska
+Norris Glacier,Exists,0.085333,,58.506445,-134.242744,2015-07-01,52.96,WI,Wisconsin
+Bird Glacier,Exists,0.262917,,61.012547,-149.282732,2015-07-01,52.96,AK,Alaska
+Bird Glacier,Exists,0.262917,,61.012547,-149.282732,2015-07-01,52.96,KY,Kentucky
+Fassett Glacier,Exists,39.4657,,59.386475,-138.515419,2015-07-01,52.96,AK,Alaska
+Eureka Glacier,Exists,34.0459,,63.389564,-146.381602,2015-07-01,52.96,AK,Alaska
+Eagle Glacier,Exists,47.2045,,61.081482,-148.959478,2015-07-01,52.96,AK,Alaska
+Eagle Glacier,Exists,47.2045,,61.081482,-148.959478,2015-07-01,52.96,KY,Kentucky
+West Fork Glacier,Exists,40.009,,61.721609,-142.871553,2015-07-01,52.96,AK,Alaska
+Kanikula Glacier,Exists,42.6697,,62.754672,-151.152962,2015-07-01,52.96,AK,Alaska
+John Glacier,Exists,2.17029,,58.861757,-137.156627,2015-07-01,52.96,AK,Alaska
+Hanging Glacier,Exists,7.15141,,59.84299,-138.964007,2015-07-01,52.96,AK,Alaska
+Texas Glacier,Exists,10.4652,,56.10454,-130.167214,2015-07-01,52.96,AK,Alaska
+East Twin Glacier,Exists,53.1327,,58.700049,-133.811827,2015-07-01,52.96,AK,Alaska
+East Twin Glacier,Exists,53.1327,,58.700049,-133.811827,2015-07-01,52.96,WI,Wisconsin
+Nuka Glacier,Exists,13.0644,,59.64201,-150.747966,2015-07-01,52.96,AK,Alaska
+Meade,Exists,461.384,,59.288715,-134.820603,2015-07-01,52.96,AK,Alaska
+Nelchina Glacier,Exists,238.557,,61.745843,-147.042494,2015-07-01,52.96,AK,Alaska
+Riggs Glacier,Exists,114.988,,59.217384,-136.191909,2015-07-01,52.96,AK,Alaska
+McArthur Glacier,Exists,15.7623,,61.110265,-152.444387,2015-07-01,52.96,AK,Alaska
+Sawyer Glacier,Exists,196.525,,57.930806,-132.637234,2015-07-01,52.96,AK,Alaska
+Brilliant Glacier,Exists,1.89005,,61.138493,-147.417131,2015-07-01,52.96,AK,Alaska
+Herbert Glacier,Exists,61.1685,,58.646695,-134.570539,2015-07-01,52.96,AK,Alaska
+Herbert Glacier,Exists,61.1685,,58.646695,-134.570539,2015-07-01,52.96,WI,Wisconsin
+Organ Glacier,Exists,2.45489,,61.141549,-149.221812,2015-07-01,52.96,AK,Alaska
+Organ Glacier,Exists,2.45489,,61.141549,-149.221812,2015-07-01,52.96,KY,Kentucky
+Ptarmigan Glacier,Exists,1.33555,,58.379504,-134.370371,2015-07-01,52.96,AK,Alaska
+Ptarmigan Glacier,Exists,1.33555,,58.379504,-134.370371,2015-07-01,52.96,WI,Wisconsin
+Patton Glacier,Exists,2.27788,,58.903877,-136.3005,2015-07-01,52.96,AK,Alaska
+Skee Glacier,Exists,3.29665,,59.99476,-149.684234,2015-07-01,52.96,AK,Alaska
+Barrier Glacier,Exists,34.662,,61.270505,-152.305684,2015-07-01,52.96,AK,Alaska
+Caldwell Glacier,Exists,12.5735,,62.417037,-152.695289,2015-07-01,52.96,AK,Alaska
+Killey Glacier,Exists,26.5635,,60.169503,-150.099606,2015-07-01,52.96,AK,Alaska
+Maclaren Glacier,Exists,56.5313,,63.355406,-146.488742,2015-07-01,52.96,AK,Alaska
+Clark Glacier,Exists,0.869563,,58.805564,-137.101428,2015-07-01,52.96,AK,Alaska
+Black and Tan Glacier,Exists,19.1403,,61.681153,-152.648556,2015-07-01,52.96,AK,Alaska
+Porcupine Glacier,Exists,0.720277,,60.007138,-149.252885,2015-07-01,52.96,NE,Nebraska
+Porcupine Glacier,Exists,0.720277,,60.007138,-149.252885,2015-07-01,52.96,AK,Alaska
+Porcupine Glacier,Exists,0.720277,,60.007138,-149.252885,2015-07-01,52.96,PA,Pennsylvania
+Porcupine Glacier,Exists,0.720277,,60.007138,-149.252885,2015-07-01,52.96,KS,Kansas
+Hoonah Glacier,Exists,9.51769,,58.823825,-136.992638,2015-07-01,52.96,AK,Alaska
+Muir Glacier,Exists,80.2843,,59.27395,-136.494529,2015-07-01,52.96,AK,Alaska
+Geikie Glacier,Exists,6.27383,,58.547613,-136.636354,2015-07-01,52.96,AK,Alaska
+Clara Smith Glacier,Exists,5.8536,,56.271098,-130.489219,2015-07-01,52.96,AK,Alaska
+Tongue Glacier,Exists,13.2775,,60.06353,-153.176091,2015-07-01,52.96,AK,Alaska
+Kadachan Glacier,Exists,1.0353,,58.893786,-137.105952,2015-07-01,52.96,AK,Alaska
+Tsaa Glacier,Exists,178.632,,60.156953,-141.561079,2015-07-01,52.96,AK,Alaska
+Leaking Glacier,Exists,1.54343,,58.447512,-134.401838,2015-07-01,52.96,AK,Alaska
+Leaking Glacier,Exists,1.54343,,58.447512,-134.401838,2015-07-01,52.96,WI,Wisconsin
+Flood Glacier,Exists,110.878,,57.191859,-131.882031,2015-07-01,52.96,AK,Alaska
+Bridge Glacier,Exists,40.463,,58.423825,-133.591595,2015-07-01,52.96,AK,Alaska
+Bridge Glacier,Exists,40.463,,58.423825,-133.591595,2015-07-01,52.96,WI,Wisconsin
+TlikakilaGlacierFork,Exists,104.777,,60.827364,-153.157296,2015-07-01,52.96,AK,Alaska
+Hugh Miller Glacier,Exists,25.8086,,58.78883,-136.739908,2015-07-01,52.96,AK,Alaska
+Wright Glacier,Exists,139.698,,58.49669,-133.53975,2015-07-01,52.96,AK,Alaska
+Wright Glacier,Exists,139.698,,58.49669,-133.53975,2015-07-01,52.96,WI,Wisconsin
+Echo Glacier,Exists,18.1232,,58.755976,-134.340307,2015-07-01,52.96,AK,Alaska
+Echo Glacier,Exists,18.1232,,58.755976,-134.340307,2015-07-01,52.96,WI,Wisconsin
+Llewellyn Glacier,Exists,297.757,,59.038741,-134.381265,2015-07-01,52.96,AK,Alaska
+Llewellyn Glacier,Exists,297.757,,59.038741,-134.381265,2015-07-01,52.96,WI,Wisconsin
+Puget Glacier,Exists,13.3528,,60.094766,-148.566977,2015-07-01,52.96,AK,Alaska
+Westbrook Glacier,Exists,0.915804,,61.126436,-146.688559,2015-07-01,52.96,AK,Alaska
+Kashoto Glacier,Exists,4.03867,,58.846203,-137.003206,2015-07-01,52.96,AK,Alaska
+Silver Glacier,Exists,0.955295,,60.889332,-146.396063,2015-07-01,52.96,AK,Alaska
+Silver Glacier,Exists,0.955295,,60.889332,-146.396063,2015-07-01,52.96,CO,Colorado
+Split Glacier,Exists,12.4222,,59.683321,-150.537421,2015-07-01,52.96,AK,Alaska
+West Twin Glacier,Exists,91.0987,,58.759234,-133.972831,2015-07-01,52.96,AK,Alaska
+West Twin Glacier,Exists,91.0987,,58.759234,-133.972831,2015-07-01,52.96,WI,Wisconsin
+McCarty Glacier,Exists,1.02122,,59.861376,-139.424756,2015-07-01,52.96,AK,Alaska
+Marcus Baker Glacier,Exists,161.596,,61.419659,-147.885111,2015-07-01,52.96,AK,Alaska
+Unnamed_1,Exists,13.5533,,61.078098,-148.734011,2015-07-01,52.96,CA,California
+Unnamed_1,Exists,13.5533,,61.078098,-148.734011,2015-07-01,52.96,AK,Alaska
+Dickinson Glacier,Exists,3.58508,,59.198803,-135.914312,2015-07-01,52.96,AK,Alaska
+Tana Lobe Bremner Glacier,Exists,102.942,,60.912957,-143.222764,2015-07-01,52.96,AK,Alaska
+Saksaia Glacier,Exists,8.68692,,59.367326,-136.413994,2015-07-01,52.96,AK,Alaska
+Shoup Glacier,Exists,129.709,,61.279655,-146.499678,2015-07-01,52.96,AK,Alaska
+Shoup Glacier,Exists,129.709,,61.279655,-146.499678,2015-07-01,52.96,CO,Colorado
+Roaring Glacier,Exists,2.95517,,61.003647,-148.445,2015-07-01,52.96,CA,California
+Roaring Glacier,Exists,2.95517,,61.003647,-148.445,2015-07-01,52.96,AK,Alaska
+Schubee Glacier,Exists,4.26132,,59.351523,-135.254436,2015-07-01,52.96,AK,Alaska
+Southern Glacier,Exists,3.52722,,59.397168,-151.092558,2015-07-01,52.96,AK,Alaska
+Davidson Glacier,Exists,100.452,,59.131477,-135.603055,2015-07-01,52.96,AK,Alaska
+Davidson Glacier,Exists,100.452,,59.131477,-135.603055,2015-07-01,52.96,OR,Oregon
+Ogive Glacier,Exists,9.05801,,59.083927,-134.722758,2015-07-01,52.96,AK,Alaska
+Crow Glacier,Exists,0.256999,,61.052573,-149.142212,2015-07-01,52.96,AK,Alaska
+Crow Glacier,Exists,0.256999,,61.052573,-149.142212,2015-07-01,52.96,KY,Kentucky
+Pedersen Glacier,Exists,31.6341,,59.877086,-149.856654,2015-07-01,52.96,AK,Alaska
+Whiteout Glacier,Exists,45.3351,,61.192227,-148.874806,2015-07-01,52.96,AK,Alaska
+Whiteout Glacier,Exists,45.3351,,61.192227,-148.874806,2015-07-01,52.96,KY,Kentucky
+Spoon Glacier,Exists,1.20803,,60.024296,-149.252439,2015-07-01,52.96,NE,Nebraska
+Spoon Glacier,Exists,1.20803,,60.024296,-149.252439,2015-07-01,52.96,AK,Alaska
+Spoon Glacier,Exists,1.20803,,60.024296,-149.252439,2015-07-01,52.96,PA,Pennsylvania
+Spoon Glacier,Exists,1.20803,,60.024296,-149.252439,2015-07-01,52.96,KS,Kansas
+Doroshin Glacier,Exists,23.3831,,59.462104,-151.094382,2015-07-01,52.96,AK,Alaska
+Aho Glacier,Exists,3.70558,,60.808181,-152.661891,2015-07-01,52.96,AK,Alaska
+Tsina Glacier,Exists,23.5005,,61.299942,-145.881018,2015-07-01,52.96,AK,Alaska
+Tsina Glacier,Exists,23.5005,,61.299942,-145.881018,2015-07-01,52.96,CO,Colorado
+Tulsequah Glacier,Exists,148.733,,58.907663,-133.973542,2015-07-01,52.96,AK,Alaska
+Tulsequah Glacier,Exists,148.733,,58.907663,-133.973542,2015-07-01,52.96,WI,Wisconsin
+Netland Glacier,Exists,31.1392,,59.382888,-137.82555,2015-07-01,52.96,AK,Alaska
+Holgate Glacier,Exists,0.090273,,59.889144,-149.892421,2015-07-01,52.96,AK,Alaska
+Prospect Glacier,Exists,0.764958,,60.025559,-149.247265,2015-07-01,52.96,NE,Nebraska
+Prospect Glacier,Exists,0.764958,,60.025559,-149.247265,2015-07-01,52.96,AK,Alaska
+Prospect Glacier,Exists,0.764958,,60.025559,-149.247265,2015-07-01,52.96,PA,Pennsylvania
+Prospect Glacier,Exists,0.764958,,60.025559,-149.247265,2015-07-01,52.96,KS,Kansas
+Le Blondeau Glacier,Exists,21.0929,,59.266144,-136.222188,2015-07-01,52.96,AK,Alaska
+Pothole Glacier,Exists,30.6426,,61.377051,-152.375989,2015-07-01,52.96,AK,Alaska
+Charpentier Glacier,Exists,3.01854,,58.663256,-136.620209,2015-07-01,52.96,AK,Alaska
+Tustumena Glacier,Exists,307.536,,60.098185,-150.200877,2015-07-01,52.96,AK,Alaska
+Anchor Glacier,Exists,6.86658,,59.796297,-150.115076,2015-07-01,52.96,AK,Alaska
+Chickamin Glacier,Exists,67.31,,56.15618,-130.292321,2015-07-01,52.96,AK,Alaska
+Eaglek Glacier,Exists,0.333493,,60.935974,-147.80766,2015-07-01,52.96,CA,California
+Eaglek Glacier,Exists,0.333493,,60.935974,-147.80766,2015-07-01,52.96,AK,Alaska
+Truuli Glacier,Exists,11.8987,,59.963463,-150.436141,2015-07-01,52.96,AK,Alaska
+Field Glacier,Exists,192.91,,59.086924,-134.463461,2015-07-01,52.96,AK,Alaska
+Field Glacier,Exists,192.91,,59.086924,-134.463461,2015-07-01,52.96,WI,Wisconsin
+Stony Glacier,Exists,8.48246,,61.629342,-153.830644,2015-07-01,52.96,AK,Alaska
+Polychrome Glacier,Exists,0.660502,,63.447581,-149.840247,2015-07-01,52.96,AK,Alaska
+Polychrome Glacier,Exists,0.660502,,63.447581,-149.840247,2015-07-01,52.96,KS,Kansas
+Ch'atanalch'elt Li'a,Exists,25.0721,,61.325664,-152.137001,2015-07-01,52.96,AK,Alaska
+Yanert Glacier,Exists,83.6561,,63.617264,-147.411493,2015-07-01,52.96,AK,Alaska
+Castner Glacier,Exists,53.7946,,63.494486,-145.49778,2015-07-01,52.96,AK,Alaska
+North Twin Glacier,Exists,31.2307,,61.535704,-152.535156,2015-07-01,52.96,AK,Alaska
+Willison Glacier,Exists,81.6262,,59.130377,-134.360661,2015-07-01,52.96,AK,Alaska
+Willison Glacier,Exists,81.6262,,59.130377,-134.360661,2015-07-01,52.96,WI,Wisconsin
+Herron Glacier,Exists,57.3623,,62.986704,-151.51178,2015-07-01,52.96,AK,Alaska
+Annin Glacier,Exists,0.234944,,61.108638,-146.688177,2015-07-01,52.96,AK,Alaska
+Chigmit North Glacier,Exists,37.5215,,60.288451,-153.419342,2015-07-01,52.96,AK,Alaska
+Sunset Glacier,Exists,7.66414,,63.348037,-150.133849,2015-07-01,52.96,AK,Alaska
+TlikakilaNorthFork,Exists,31.7011,,60.81899,-153.423478,2015-07-01,52.96,AK,Alaska
+Camicia Glacier,Exists,5.57297,,61.192193,-145.989077,2015-07-01,52.96,AK,Alaska
+Camicia Glacier,Exists,5.57297,,61.192193,-145.989077,2015-07-01,52.96,CO,Colorado
+Gulkana Glacier,Exists,17.5667,,63.301387,-145.423894,2015-07-01,52.96,AK,Alaska
+Reid Glacier,Exists,62.9518,,58.817661,-136.803096,2015-07-01,52.96,AK,Alaska
+Deadman Glacier,Exists,1.50297,,60.657848,-149.020417,2015-07-01,52.96,CA,California
+Deadman Glacier,Exists,1.50297,,60.657848,-149.020417,2015-07-01,52.96,AK,Alaska
+Tyeen Glacier,Exists,5.1095,,58.863593,-137.164302,2015-07-01,52.96,AK,Alaska
+Stoney Glacier,Exists,3.3212,,61.921877,-152.874113,2015-07-01,52.96,AK,Alaska
+West Gulkana Glacier,Exists,2.15999,,63.295435,-145.520812,2015-07-01,52.96,AK,Alaska
+Bacon Glacier,Exists,4.76553,,58.680524,-133.810701,2015-07-01,52.96,AK,Alaska
+Bacon Glacier,Exists,4.76553,,58.680524,-133.810701,2015-07-01,52.96,WI,Wisconsin
+Mother Goose Glacier,Exists,1.22926,,60.351927,-149.193427,2015-07-01,52.96,AK,Alaska
+Mother Goose Glacier,Exists,1.22926,,60.351927,-149.193427,2015-07-01,52.96,NE,Nebraska
+Red Glacier,Exists,49.7207,,60.036561,-153.062495,2015-07-01,52.96,AK,Alaska
+Spotted Glacier,Exists,22.8379,,58.906458,-153.451378,2015-07-01,52.96,AK,Alaska
+Dinglestadt Glacier,Exists,74.8502,,59.773489,-150.521867,2015-07-01,52.96,AK,Alaska
+Fourth Glacier,Exists,17.6295,,59.672708,-139.09472,2015-07-01,52.96,AK,Alaska
+Denver Glacier,Exists,8.88524,,59.421479,-135.087283,2015-07-01,52.96,AK,Alaska
+Vern Ritchie Glacier,Exists,378.558,,59.899017,-138.64962,2015-07-01,52.96,AK,Alaska
+Garrison Glacier,Exists,30.4827,,59.130503,-135.656917,2015-07-01,52.96,AK,Alaska
+Garrison Glacier,Exists,30.4827,,59.130503,-135.656917,2015-07-01,52.96,OR,Oregon
+Penniman Glaciers,Exists,0.775549,,61.092396,-148.349766,2015-07-01,52.96,CA,California
+Penniman Glaciers,Exists,0.775549,,61.092396,-148.349766,2015-07-01,52.96,AK,Alaska
+Tuxedni Glacier,Exists,92.9646,,60.153981,-153.04183,2015-07-01,52.96,AK,Alaska
+Loomis Glacier,Exists,0.984017,,58.925812,-136.4156,2015-07-01,52.96,AK,Alaska
+Andrews Glacier,Exists,2.33744,,58.904692,-136.365758,2015-07-01,52.96,AK,Alaska
+Rubin Glacier,Exists,3.712,,61.145015,-146.03351,2015-07-01,52.96,AK,Alaska
+Rubin Glacier,Exists,3.712,,61.145015,-146.03351,2015-07-01,52.96,CO,Colorado
+Detached Glacier,Exists,1.68012,,61.075964,-148.381731,2015-07-01,52.96,CA,California
+Detached Glacier,Exists,1.68012,,61.075964,-148.381731,2015-07-01,52.96,AK,Alaska
+Lituya Glacier,Exists,48.3013,,58.744362,-137.411323,2015-07-01,52.96,AK,Alaska
+Lemon Creek Glacier,Exists,0.552773,,58.403051,-134.338989,2015-07-01,52.96,AK,Alaska
+Lemon Creek Glacier,Exists,0.552773,,58.403051,-134.338989,2015-07-01,52.96,WI,Wisconsin
+Speel Glacier,Exists,24.3957,,58.344961,-133.338308,2015-07-01,52.96,AK,Alaska
+Speel Glacier,Exists,24.3957,,58.344961,-133.338308,2015-07-01,52.96,WI,Wisconsin
+Fleischmann Glacier,Exists,0.572973,,62.358465,-152.846911,2015-07-01,52.96,AK,Alaska
+Sunrise Glacier,Exists,0.503718,,63.362793,-150.164854,2015-07-01,52.96,AK,Alaska
+Fairweather Glacier,Exists,165.674,,58.902416,-137.453424,2015-07-01,52.96,AK,Alaska
+North Crillon Glacier,Exists,55.6978,,58.732687,-137.297853,2015-07-01,52.96,AK,Alaska
+Aialik Glacier,Exists,141.533,,60.046454,-149.826589,2015-07-01,52.96,AK,Alaska
+Adams Glacier,Exists,4.56001,,58.7968,-135.898131,2015-07-01,52.96,AK,Alaska
+Romer Glacier,Exists,2.81652,,58.973741,-136.759987,2015-07-01,52.96,AK,Alaska
+Battle Glacier,Exists,11.9769,,58.688579,-134.563376,2015-07-01,52.96,AK,Alaska
+Battle Glacier,Exists,11.9769,,58.688579,-134.563376,2015-07-01,52.96,WI,Wisconsin
+Gilman Glacier,Exists,22.7908,,58.830178,-137.092877,2015-07-01,52.96,AK,Alaska
+Nenana Glacier,Exists,27.4485,,63.566918,-147.534781,2015-07-01,52.96,AK,Alaska
+Clear Glacier,Exists,1.14443,,61.065664,-149.149213,2015-07-01,52.96,AK,Alaska
+Clear Glacier,Exists,1.14443,,61.065664,-149.149213,2015-07-01,52.96,KY,Kentucky
+Grotto Glacier,Exists,26.0944,,60.07206,-141.516396,2015-07-01,52.96,AK,Alaska
+Tana Glacier,Exists,514.803,,60.773206,-142.736587,2015-07-01,52.96,AK,Alaska
+Umbrella Glacier,Exists,16.0518,,59.99921,-153.113739,2015-07-01,52.96,AK,Alaska
+Villard Glacier,Exists,1.03056,,59.291827,-135.240388,2015-07-01,52.96,AK,Alaska
+Art Lewis Glacier,Exists,193.667,,60.03392,-138.95082,2015-07-01,52.96,AK,Alaska
+Taku Glacier,Exists,521.396,,58.847561,-134.14037,2015-07-01,52.96,AK,Alaska
+Taku Glacier,Exists,521.396,,58.847561,-134.14037,2015-07-01,52.96,WI,Wisconsin
+Gerstle Glacier,Exists,83.9527,,63.457137,-145.268357,2015-07-01,52.96,AK,Alaska
+Blockade Glacier,Exists,173.211,,61.101841,-152.51864,2015-07-01,52.96,AK,Alaska
+Chedotlothna Glacier,Exists,76.2422,,62.836136,-151.851088,2015-07-01,52.96,AK,Alaska
+Worthington Glacier,Exists,7.32921,,61.173316,-145.783884,2015-07-01,52.96,AK,Alaska
+Worthington Glacier,Exists,7.32921,,61.173316,-145.783884,2015-07-01,52.96,CO,Colorado
+Ripon Glacier,Exists,2.667,,60.683546,-148.593526,2015-07-01,52.96,CA,California
+Ripon Glacier,Exists,2.667,,60.683546,-148.593526,2015-07-01,52.96,AK,Alaska
+Tourquise Glacier,Exists,16.6699,,60.814201,-153.61703,2015-07-01,52.96,AK,Alaska
+Capps Glacier,Exists,240.648,,61.444513,-152.211294,2015-07-01,52.96,AK,Alaska
+Ferebee Glacier,Exists,37.547,,59.529492,-135.649718,2015-07-01,52.96,AK,Alaska
+Tokositna Glacier,Exists,204.433,,62.955051,-151.052325,2015-07-01,52.96,AK,Alaska
+Colony Glacier,Exists,219.564,,61.266455,-148.503711,2015-07-01,52.96,AK,Alaska
+Topeka Glacier,Exists,7.06401,,58.922036,-137.142282,2015-07-01,52.96,AK,Alaska
+Crater Glacier,Exists,9.85488,,61.301417,-152.257555,2015-07-01,52.96,AK,Alaska
+Gilkey Glacier,Exists,0.140534,,58.871941,-134.276747,2015-07-01,52.96,AK,Alaska
+Gilkey Glacier,Exists,0.140534,,58.871941,-134.276747,2015-07-01,52.96,WI,Wisconsin
+Chigmuit South Glacier,Exists,71.0488,,60.226765,-153.503057,2015-07-01,52.96,AK,Alaska
+Portlock Glacier,Exists,35.1809,,59.631083,-150.891367,2015-07-01,52.96,AK,Alaska
+Blackstone Glacier,Exists,30.587,,60.643664,-148.703709,2015-07-01,52.96,CA,California
+Blackstone Glacier,Exists,30.587,,60.643664,-148.703709,2015-07-01,52.96,AK,Alaska
+Toboggan Glacier,Exists,1.71506,,61.035017,-148.272352,2015-07-01,52.96,CA,California
+Toboggan Glacier,Exists,1.71506,,61.035017,-148.272352,2015-07-01,52.96,AK,Alaska
+Klooch Glacier,Exists,7.16709,,58.615393,-137.281336,2015-07-01,52.96,AK,Alaska
+Northwestern Glacier,Exists,50.2986,,59.890427,-150.032648,2015-07-01,52.96,AK,Alaska
+Guyot Glacier,Exists,283.651,,60.257364,-141.571982,2015-07-01,52.96,AK,Alaska
+Revelation Glacier,Exists,35.3838,,61.719913,-154.207098,2015-07-01,52.96,AK,Alaska
+Toklat1,Exists,6.42207,,63.434762,-149.658026,2015-07-01,52.96,AK,Alaska
+Toklat1,Exists,6.42207,,63.434762,-149.658026,2015-07-01,52.96,KS,Kansas
+Morse Glacier,Exists,40.8343,,59.201926,-136.535196,2015-07-01,52.96,AK,Alaska
+Gillam Glacier,Exists,90.905,,63.640575,-146.96712,2015-07-01,52.96,AK,Alaska
+Toklat3,Exists,9.49622,,63.343562,-150.114768,2015-07-01,52.96,AK,Alaska
+Robertson Glacier,Exists,56.897,,63.215527,-144.595164,2015-07-01,52.96,OK,Oklahoma
+Robertson Glacier,Exists,56.897,,63.215527,-144.595164,2015-07-01,52.96,AK,Alaska
+Skilak Glacier,Exists,171.454,,60.282108,-150.047733,2015-07-01,52.96,AK,Alaska
+College Glacier,Exists,4.24642,,63.27542,-145.344332,2015-07-01,52.96,AK,Alaska
+Baby Glacier,Exists,0.54067,,61.165761,-147.59306,2015-07-01,52.96,AK,Alaska
+McCallum Glacier,Exists,0.812216,,63.308961,-145.615024,2015-07-01,52.96,AK,Alaska
+Chamberlain Glacier,Exists,81.4389,,59.436592,-138.599086,2015-07-01,52.96,AK,Alaska
+Black Rapids Glacier,Exists,234.583,,63.380604,-146.400617,2015-07-01,52.96,AK,Alaska
+Kachemak Glacier,Exists,20.7549,,59.723496,-150.525265,2015-07-01,52.96,AK,Alaska
+Indian Glacier,Exists,18.1988,,60.127851,-150.213626,2015-07-01,52.96,AK,Alaska
+Susitna Glacier,Exists,209.629,,63.619152,-146.811819,2015-07-01,52.96,AK,Alaska
+Foraker Glacier,Exists,57.7896,,63.04359,-151.377706,2015-07-01,52.96,AK,Alaska
+Wortmanns Glacier,Exists,49.9105,,60.890887,-145.682492,2015-07-01,52.96,AK,Alaska
+Wortmanns Glacier,Exists,49.9105,,60.890887,-145.682492,2015-07-01,52.96,AL,Alabama
+Wortmanns Glacier,Exists,49.9105,,60.890887,-145.682492,2015-07-01,52.96,NC,North Carolina
+Wortmanns Glacier,Exists,49.9105,,60.890887,-145.682492,2015-07-01,52.96,NM,New Mexico
+Wortmanns Glacier,Exists,49.9105,,60.890887,-145.682492,2015-07-01,52.96,IL,Illinois
+Wortmanns Glacier,Exists,49.9105,,60.890887,-145.682492,2015-07-01,52.96,MD,Maryland
+Wortmanns Glacier,Exists,49.9105,,60.890887,-145.682492,2015-07-01,52.96,SC,South Carolina
+Wortmanns Glacier,Exists,49.9105,,60.890887,-145.682492,2015-07-01,52.96,NE,Nebraska
+Bettles Glacier,Exists,2.88596,,60.933107,-148.42687,2015-07-01,52.96,CA,California
+Bettles Glacier,Exists,2.88596,,60.933107,-148.42687,2015-07-01,52.96,AK,Alaska
+Hayes Glacier,Exists,52.2158,,63.716856,-146.575158,2015-07-01,52.96,AK,Alaska
+Addison Glacier,Exists,1.22506,,59.931708,-149.783404,2015-07-01,52.96,AK,Alaska
+Fourpeaked Glacier,Exists,79.5037,,58.857489,-153.526017,2015-07-01,52.96,AK,Alaska
+South Twin Glacier,Exists,28.5456,,61.490407,-152.521766,2015-07-01,52.96,AK,Alaska
+Klutina Glacier,Exists,32.5596,,61.385711,-146.251053,2015-07-01,52.96,AK,Alaska
+Klutina Glacier,Exists,32.5596,,61.385711,-146.251053,2015-07-01,52.96,CO,Colorado
+Icicle Glacier,Exists,2.59616,,61.207624,-149.09968,2015-07-01,52.96,AK,Alaska
+Icicle Glacier,Exists,2.59616,,61.207624,-149.09968,2015-07-01,52.96,KY,Kentucky
+Corbin Glacier,Exists,4.12153,,61.104068,-145.983538,2015-07-01,52.96,AK,Alaska
+Corbin Glacier,Exists,4.12153,,61.104068,-145.983538,2015-07-01,52.96,CO,Colorado
+Dogshead Glacier,Exists,5.02834,,61.362089,-152.011444,2015-07-01,52.96,AK,Alaska
+Double Glacier,Exists,3.06296,,60.074674,-152.975287,2015-07-01,52.96,AK,Alaska
+Knik Glacier,Exists,435.571,,61.319823,-148.280734,2015-07-01,52.96,AK,Alaska
+Matanuska Glacier,Exists,308.689,,61.589221,-147.743355,2015-07-01,52.96,AK,Alaska
+Bertha Glacier,Exists,16.2694,,59.163764,-135.790233,2015-07-01,52.96,AK,Alaska
+Gannett Glacier,Exists,23.9443,,61.297317,-148.320829,2015-07-01,52.96,AK,Alaska
+Lateral Glacier,Exists,25.1886,,60.04285,-152.979823,2015-07-01,52.96,AK,Alaska
+Straightaway Glacier,Exists,44.7342,,63.101927,-151.237354,2015-07-01,52.96,AK,Alaska
+Harpoon Glacier,Exists,4.46674,,56.215297,-159.267215,2015-07-01,52.96,MO,Missouri
+Harpoon Glacier,Exists,4.46674,,56.215297,-159.267215,2015-07-01,52.96,MD,Maryland
+Harpoon Glacier,Exists,4.46674,,56.215297,-159.267215,2015-07-01,52.96,AR,Arkansas
+Harpoon Glacier,Exists,4.46674,,56.215297,-159.267215,2015-07-01,52.96,KY,Kentucky
+Harpoon Glacier,Exists,4.46674,,56.215297,-159.267215,2015-07-01,52.96,AK,Alaska
+Baldwin Glacier,Exists,3.26397,,58.902806,-136.371765,2015-07-01,52.96,AK,Alaska
+Tonsina Glacier,Exists,41.9344,,61.30886,-145.760261,2015-07-01,52.96,AK,Alaska
+Tonsina Glacier,Exists,41.9344,,61.30886,-145.760261,2015-07-01,52.96,CO,Colorado
+Trimble Glacier,Exists,209.775,,61.590008,-152.178862,2015-07-01,52.96,AK,Alaska
+Flute Glacier,Exists,1.58534,,61.153458,-149.285338,2015-07-01,52.96,AK,Alaska
+Flute Glacier,Exists,1.58534,,61.153458,-149.285338,2015-07-01,52.96,KY,Kentucky
+Twentyseven Mile Glacier,Exists,1.33457,,61.158033,-145.780121,2015-07-01,52.96,AK,Alaska
+Twentyseven Mile Glacier,Exists,1.33457,,61.158033,-145.780121,2015-07-01,52.96,CO,Colorado
+Mint Glacier,Exists,0.780586,,61.879101,-149.056963,2015-07-01,52.96,AK,Alaska
+Takhin Glacier,Exists,16.5126,,59.234296,-136.183322,2015-07-01,52.96,AK,Alaska
+Raven Glacier,Exists,3.40748,,61.066802,-149.058866,2015-07-01,52.96,AK,Alaska
+Raven Glacier,Exists,3.40748,,61.066802,-149.058866,2015-07-01,52.96,KY,Kentucky
+Thiel Glacier,Exists,26.0936,,58.686919,-134.715436,2015-07-01,52.96,AK,Alaska
+Thiel Glacier,Exists,26.0936,,58.686919,-134.715436,2015-07-01,52.96,WI,Wisconsin
+Canwell Glacier,Exists,59.6012,,63.357645,-145.364787,2015-07-01,52.96,AK,Alaska
+Byron Glacier,Exists,1.5459,,60.736993,-148.857549,2015-07-01,52.96,CA,California
+Byron Glacier,Exists,1.5459,,60.736993,-148.857549,2015-07-01,52.96,AK,Alaska
+Chickaloon Glacier,Exists,24.7346,,62.114185,-148.383493,2015-07-01,52.96,AK,Alaska
+Burroughs Glacier,Exists,2.88399,,58.985859,-136.293081,2015-07-01,52.96,AK,Alaska
+Keystone Glacier,Exists,13.4704,,61.155744,-146.007043,2015-07-01,52.96,AK,Alaska
+Keystone Glacier,Exists,13.4704,,61.155744,-146.007043,2015-07-01,52.96,CO,Colorado
+Cantwell Glacier,Exists,4.14206,,63.456573,-149.423417,2015-07-01,52.96,AK,Alaska
+Yahtse Glacier,Exists,1019.1,,60.407505,-141.484702,2015-07-01,52.96,AK,Alaska
+Lake George Glacier,Exists,91.8349,,60.985783,-148.640782,2015-07-01,52.96,CA,California
+Lake George Glacier,Exists,91.8349,,60.985783,-148.640782,2015-07-01,52.96,AK,Alaska
+Metal Creek Glacier,Exists,3.11699,,61.638837,-148.314071,2015-07-01,52.96,AK,Alaska
+Girdled Glacier,Exists,4.75179,,58.956909,-135.715229,2015-07-01,52.96,AK,Alaska
+Girdled Glacier,Exists,4.75179,,58.956909,-135.715229,2015-07-01,52.96,OR,Oregon
+Spur Glacier,Exists,23.0599,,63.417293,-145.135272,2015-07-01,52.96,AK,Alaska
+Saint Vrain Glaciers,Exists,0.030615,,40.15224,-105.652381,2016-04-01,43.09,CO,Colorado
+Taylor Glacier CO,Exists,0.024512,,40.269369,-105.677532,2016-04-01,43.09,CO,Colorado
+The Dove CO,Exists,0.011817,,40.258102,-105.618036,2016-04-01,43.09,CO,Colorado
+Mills Glacier,Exists,0.03093,,40.255631,-105.611699,2016-04-01,43.09,CO,Colorado
+Tyndall Glacier,Exists,0.055353,,40.304345,-105.688834,2016-04-01,43.09,CO,Colorado
+Sprague Glacier,Exists,0.037689,,40.342345,-105.734204,2016-04-01,43.09,CO,Colorado
+Rowe Glacier CO,Exists,0.053317,,40.487871,-105.647868,2016-04-01,43.09,CO,Colorado
+Moomaw Glacier,Exists,0.061695,,40.210038,-105.668483,2016-04-01,43.09,CO,Colorado
+Muth Glacier,Exists,1.11753,,61.110922,-147.656351,2010-06-01,48.27,AK,Alaska
+Talkeetna Glacier,Exists,25.4109,,62.103174,-148.500765,2010-06-01,48.27,AK,Alaska
+Explorer Glacier,Exists,1.05513,,60.768386,-148.914703,2010-06-01,48.27,CA,California
+Explorer Glacier,Exists,1.05513,,60.768386,-148.914703,2010-06-01,48.27,AK,Alaska
+Harris Glacier,Exists,205.729,,60.215768,-149.812042,2010-06-01,48.27,AK,Alaska
+Dixon Glacier,Exists,41.7726,,59.681648,-150.80334,2010-06-01,48.27,AK,Alaska
+Petrof Glacier,Exists,41.02,,59.501351,-150.835215,2010-06-01,48.27,AK,Alaska
+Bear Glacier,Exists,149.278,,60.117509,-149.748387,2010-06-01,48.27,AK,Alaska
+Grewingk Glacier,Exists,71.8511,,59.581422,-150.837155,2010-06-01,48.27,AK,Alaska
+Chernof Glacier,Exists,55.6251,,59.89426,-150.405448,2010-06-01,48.27,AK,Alaska
+Wosnesenski Glacier,Exists,31.0809,,59.517817,-150.948357,2010-06-01,48.27,AK,Alaska
+Tanaina Glacier,Exists,149.989,,61.007698,-152.778724,2010-06-01,48.27,AK,Alaska
+Lechner Glacier,Exists,0.637364,,59.941236,-149.624903,2010-06-01,48.27,AK,Alaska
+Stephens Glacier,Exists,52.0209,,61.408707,-146.245936,2010-06-01,48.27,AK,Alaska
+Stephens Glacier,Exists,52.0209,,61.408707,-146.245936,2010-06-01,48.27,CO,Colorado
+Yalik Glacier,Exists,47.8702,,59.605433,-150.806368,2010-06-01,48.27,AK,Alaska
+Tired Pup Glacier,Exists,7.57731,,61.496855,-153.917488,2010-06-01,48.27,AK,Alaska
+Wedge Glacier,Exists,1.0107,,60.959523,-148.378631,2010-06-01,48.27,CA,California
+Wedge Glacier,Exists,1.0107,,60.959523,-148.378631,2010-06-01,48.27,AK,Alaska
+Valdez Glacier,Exists,151.903,,61.366584,-146.300888,2010-06-01,48.27,AK,Alaska
+Valdez Glacier,Exists,151.903,,61.366584,-146.300888,2010-06-01,48.27,CO,Colorado
+Hunter Creek Glacier,Exists,13.0406,,61.310392,-148.663061,2010-06-01,48.27,AK,Alaska
+Eklutna Glacier,Exists,28.4836,,61.2106,-148.935718,2010-06-01,48.27,AK,Alaska
+Eklutna Glacier,Exists,28.4836,,61.2106,-148.935718,2010-06-01,48.27,KY,Kentucky
+McBride Glacier,Exists,118.675,,59.212235,-136.103276,2010-01-01,30.67,AK,Alaska
+Yentna Glacier,Exists,392.112,,62.901418,-151.34927,2011-04-01,39.45,AK,Alaska
+Casement Glacier,Exists,162.65,,59.157115,-135.871071,2010-01-01,30.67,AK,Alaska
+Tatina Glacier,Exists,10.965,,62.404575,-152.772398,2011-04-01,39.45,AK,Alaska
+Willard Glacier,Exists,5.44471,,59.200335,-135.868253,2010-01-01,30.67,AK,Alaska
+Rainbow Glacier,Exists,4.00402,,59.124176,-135.508168,2010-01-01,30.67,AK,Alaska
+Rainbow Glacier,Exists,4.00402,,59.124176,-135.508168,2010-01-01,30.67,OR,Oregon
+Scidmore Glacier,Exists,5.10244,,58.792832,-136.718651,2010-01-01,30.67,AK,Alaska
+Twin Glacier,Exists,0.865719,,58.896815,-136.412427,2010-01-01,30.67,AK,Alaska
+Sea Otter Glacier,Exists,69.2937,,58.966499,-137.651268,2010-01-01,30.67,AK,Alaska
+Konamoxt Glacier,Exists,73.5006,,59.371897,-137.613547,2010-01-01,30.67,AK,Alaska
+Maynard Glacier,Exists,4.94587,,58.701988,-136.626743,2010-01-01,30.67,AK,Alaska
+Toyatte Glacier,Exists,5.27878,,58.925121,-137.129483,2010-01-01,30.67,AK,Alaska
+White Glacier,Exists,2.78149,,58.799588,-135.897717,2010-01-01,30.67,AK,Alaska
+Cameron Glaciers,Exists,0.017965,,47.825785,-123.31728,2017-10-01,57.51,WA,Washington
+Fairchild Glacier,Exists,0.223918,,47.908631,-123.625912,2017-10-01,57.51,WA,Washington
+Cameron Glaciers WA,Exists,0.009338,,47.825699,-123.314451,2017-10-01,57.51,WA,Washington
+Hoh Glacier,Exists,3.78848,,47.808786,-123.658086,2017-10-01,57.51,WA,Washington
+Jeffers Glacier,Exists,0.231687,,47.775613,-123.681638,2017-10-01,57.51,WA,Washington
+Humes Glacier,Exists,1.37089,,47.793946,-123.653446,2017-10-01,57.51,WA,Washington
+Blue Glacier,Exists,5.06343,,47.826368,-123.690077,2017-10-01,57.51,WA,Washington
+Queets Glacier,Exists,0.290608,,47.770136,-123.60246,2017-10-01,57.51,WA,Washington
+Hubert Glacier,Exists,0.637485,,47.791394,-123.704683,2017-10-01,57.51,WA,Washington
+Lillian Glacier WA,Exists,0.005397,,47.851157,-123.38306,2017-10-01,57.51,WA,Washington
+Carrie Glacier,Exists,0.398473,,47.893938,-123.637759,2017-10-01,57.51,WA,Washington
+Ice River Glacier,Exists,0.21021,,47.826017,-123.671293,2017-10-01,57.51,WA,Washington
+Eel Glacier,Exists,0.813131,,47.73247,-123.343757,2017-10-01,57.51,WA,Washington
+Carrie Glacier WA,Exists,0.435818,,47.905071,-123.640431,2017-10-01,57.51,WA,Washington
+Riley Creek Glacier,Exists,6.00673,,63.569053,-145.59517,2009-06-01,48.62,AK,Alaska
+Trident Glacier,Exists,146.768,,63.741244,-146.413705,2010-05-01,43.83,AK,Alaska
+McGinnis Glacier,Exists,15.1527,,63.586836,-146.13298,2010-05-01,43.83,AK,Alaska
+South Glacier,Exists,8.32813,,59.46848,-135.05651,2005-11-01,55.53,AK,Alaska
+Great Glacier,Exists,123.976,,56.837339,-131.844287,2006-02-01,36.88,AK,Alaska
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,VA,Virginia
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,AK,Alaska
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,IL,Illinois
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,WV,West Virginia
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,IN,Indiana
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,TX,Texas
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,MI,Michigan
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,KY,Kentucky
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,TN,Tennessee
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,PA,Pennsylvania
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,NE,Nebraska
+LeConte Glacier,Exists,427.59,,56.84107,-132.35621,2006-04-01,42.9,ND,North Dakota
+Martin Glacier,Exists,6.17622,,59.28128,-138.495999,2007-08-01,55.43,AK,Alaska
+Mendenhall Glacier,Exists,95.8845,,58.55253,-134.44304,2005-05-01,45.09,AK,Alaska
+Mendenhall Glacier,Exists,95.8845,,58.55253,-134.44304,2005-05-01,45.09,WI,Wisconsin
+Split Thumb Icefall,Exists,1.98926,,58.40678,-134.2651,2005-11-01,55.53,AK,Alaska
+Split Thumb Icefall,Exists,1.98926,,58.40678,-134.2651,2005-11-01,55.53,WI,Wisconsin
+Pegmatite Glacier,Exists,0.881541,,63.259585,-145.389011,2009-06-01,48.62,AK,Alaska
+Fels Glacier,Exists,21.3777,,63.385488,-145.661777,2009-06-01,48.62,AK,Alaska
+Tok Glacier,Exists,4.27424,,63.13373,-144.157053,2009-06-01,48.62,AK,Alaska
+Gakona Glacier,Exists,108.706,,63.322029,-145.203481,2009-06-01,48.62,AK,Alaska
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,VA,Virginia
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,AK,Alaska
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,IL,Illinois
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,WV,West Virginia
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,IN,Indiana
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,TX,Texas
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,MI,Michigan
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,KY,Kentucky
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,TN,Tennessee
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,PA,Pennsylvania
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,NE,Nebraska
+Dawes Glacier,Exists,0.011084,,57.33689,-132.37789,2008-05-01,43.31,ND,North Dakota
+South Sawyer Glacier,Exists,528.806,,57.884537,-132.527161,2008-05-01,43.31,AK,Alaska
+Russell Glacier,Exists,361.864,,61.592727,-141.622357,2015-07-01,52.96,AK,Alaska
+Laughton Glacier,Exists,3.07029,,59.506676,-135.133627,2015-07-01,52.96,AK,Alaska
+Vulture Glacier MT,Exists,0.032846,,48.826866,-114.022443,2006-08-01,56.8,MT,Montana
+McAllister Glacier,Exists,4.97085,,48.552816,-121.107462,2006-08-01,56.8,WA,Washington
+Van Trump Glacier,Exists,0.323787,,46.817379,-121.756457,2006-08-01,56.8,WA,Washington
+Van Trump Glacier,Exists,0.323787,,46.817379,-121.756457,2006-08-01,56.8,IA,Iowa
+Hayden Glacier,Exists,0.807997,,44.148306,-121.776085,2006-08-01,56.8,OR,Oregon
+Palmer Glacier,Exists,1.1253,,45.356078,-121.70133,2006-08-01,56.8,OR,Oregon
+Winthrop Glacier,Exists,9.19476,,46.87035,-121.732861,2006-08-01,56.8,WA,Washington
+Winthrop Glacier,Exists,9.19476,,46.87035,-121.732861,2006-08-01,56.8,IA,Iowa
+Powell Glacier,Exists,0.188361,,37.141426,-118.630201,2006-08-01,56.8,AZ,Arizona
+Powell Glacier,Exists,0.188361,,37.141426,-118.630201,2006-08-01,56.8,CA,California
+Vista Glacier,Exists,1.22099,,48.132187,-121.125266,2006-08-01,56.8,WA,Washington
+South Cascade Glacier,Exists,2.9241,,48.356838,-121.072462,2006-08-01,56.8,WA,Washington
+Lower Fremont Glacier,Exists,0.767278,,43.127684,-109.594918,2006-08-01,56.8,WY,Wyoming
+Lower Fremont Glacier,Exists,0.767278,,43.127684,-109.594918,2006-08-01,56.8,AZ,Arizona
+Ermine Glacier,Exists,1.28228,,48.128427,-121.11492,2006-08-01,56.8,WA,Washington
+West Nooksack Glacier,Exists,0.166232,,48.844299,-121.572462,2006-08-01,56.8,WA,Washington
+West Lynch,Gone,0.133329,1441756800.0,47.574736,-121.188633,2006-08-01,56.8,WA,Washington
+Nohokomeen Glacier,Exists,1.80069,,48.782924,-120.969139,2006-08-01,56.8,WA,Washington
+Hadley Glacier,Exists,1.08679,,48.824112,-121.835224,2006-08-01,56.8,WA,Washington
+J Glacier,Exists,0.400269,,43.236246,-109.702161,2006-08-01,56.8,WY,Wyoming
+J Glacier,Exists,0.400269,,43.236246,-109.702161,2006-08-01,56.8,ID,Idaho
+J Glacier,Exists,0.400269,,43.236246,-109.702161,2006-08-01,56.8,IN,Indiana
+Harrison Glacier,Exists,0.182171,,48.583975,-113.733115,2006-08-01,56.8,MT,Montana
+Sitkum Glacier,Exists,1.23404,,48.112307,-121.126226,2006-08-01,56.8,WA,Washington
+Lynch Glacier,Exists,0.878133,,47.569247,-121.188041,2006-08-01,56.8,WA,Washington
+Teton Glacier,Exists,0.309074,,43.738361,-110.786955,2006-08-01,56.8,WY,Wyoming
+Bastile Glacier,Exists,0.046088,,48.806877,-121.837704,2006-08-01,56.8,WA,Washington
+Swiftcurrent Glacier,Exists,0.175234,,48.768861,-113.751633,2006-08-01,56.8,MT,Montana
+Sarvant Glaciers,Exists,0.097805,,46.857488,-121.637488,2006-08-01,56.8,WA,Washington
+Sarvant Glaciers,Exists,0.097805,,46.857488,-121.637488,2006-08-01,56.8,IA,Iowa
+Chaney Glacier,Exists,0.535106,,48.85161,-113.826176,2006-08-01,56.8,MT,Montana
+Quest-Alb Glacier,Exists,0.649248,,48.171499,-121.6942,2006-08-01,56.8,WA,Washington
+Carter Glaciers,Exists,0.273824,,48.894544,-114.051753,2006-08-01,56.8,MT,Montana
+Milk Lake Glacier,Gone,0.223326,747532800.0,48.148149,-121.148716,2006-08-01,56.8,WA,Washington
+Foss Glacier WA,Exists,0.905428,,47.56647,-121.209283,2006-08-01,56.8,WA,Washington
+Eliot Glacier,Exists,1.71916,,45.388676,-121.666439,2006-08-01,56.8,OR,Oregon
+Swift Glacier,Exists,0.327312,,46.188357,-122.183766,2006-08-01,56.8,IL,Illinois
+Swift Glacier,Exists,0.327312,,46.188357,-122.183766,2006-08-01,56.8,MS,Mississippi
+Swift Glacier,Exists,0.327312,,46.188357,-122.183766,2006-08-01,56.8,PA,Pennsylvania
+Swift Glacier,Exists,0.327312,,46.188357,-122.183766,2006-08-01,56.8,TX,Texas
+Swift Glacier,Exists,0.327312,,46.188357,-122.183766,2006-08-01,56.8,WA,Washington
+Swift Glacier,Exists,0.327312,,46.188357,-122.183766,2006-08-01,56.8,MN,Minnesota
+Beartooth Glacier,Exists,0.200309,,45.063326,-109.566554,2006-08-01,56.8,IL,Illinois
+Beartooth Glacier,Exists,0.200309,,45.063326,-109.566554,2006-08-01,56.8,TX,Texas
+Beartooth Glacier,Exists,0.200309,,45.063326,-109.566554,2006-08-01,56.8,PA,Pennsylvania
+Beartooth Glacier,Exists,0.200309,,45.063326,-109.566554,2006-08-01,56.8,NY,New York
+Beartooth Glacier,Exists,0.200309,,45.063326,-109.566554,2006-08-01,56.8,SD,South Dakota
+Beartooth Glacier,Exists,0.200309,,45.063326,-109.566554,2006-08-01,56.8,MO,Missouri
+Beartooth Glacier,Exists,0.200309,,45.063326,-109.566554,2006-08-01,56.8,MN,Minnesota
+Beartooth Glacier,Exists,0.200309,,45.063326,-109.566554,2006-08-01,56.8,NE,Nebraska
+Beartooth Glacier,Exists,0.200309,,45.063326,-109.566554,2006-08-01,56.8,MT,Montana
+Sandalee Glacier,Exists,0.254237,,48.414036,-120.796679,2006-08-01,56.8,MA,Massachusetts
+Sandalee Glacier,Exists,0.254237,,48.414036,-120.796679,2006-08-01,56.8,MN,Minnesota
+Sandalee Glacier,Exists,0.254237,,48.414036,-120.796679,2006-08-01,56.8,IA,Iowa
+Sandalee Glacier,Exists,0.254237,,48.414036,-120.796679,2006-08-01,56.8,WA,Washington
+Sandalee Glacier,Exists,0.254237,,48.414036,-120.796679,2006-08-01,56.8,AR,Arkansas
+Sandalee Glacier,Exists,0.254237,,48.414036,-120.796679,2006-08-01,56.8,NY,New York
+Rusk Glacier,Exists,1.1314,,46.204918,-121.478343,2006-08-01,56.8,WA,Washington
+Isella Glacier,Exists,0.527169,,48.231411,-120.865492,2006-08-01,56.8,WA,Washington
+Sahale Glacier,Exists,0.155464,,48.489183,-121.04037,2006-08-01,56.8,WA,Washington
+Dusty Glacier,Exists,1.37596,,48.121473,-121.111855,2006-08-01,56.8,WA,Washington
+Middle Teton Glacier,Exists,0.212963,,43.728931,-110.798048,2006-08-01,56.8,WY,Wyoming
+The Salamander Glacier,Exists,0.22588,,48.754358,-113.738951,2006-08-01,56.8,MT,Montana
+Katsuk Glacier,Exists,0.810261,,48.578448,-120.88363,2006-08-01,56.8,WA,Washington
+North Swiftcurrent Glacier,Exists,0.061358,,48.789585,-113.769141,2006-08-01,56.8,MT,Montana
+Pyramid Glacier,Exists,0.563499,,46.829883,-121.784992,2006-08-01,56.8,AL,Alabama
+Pyramid Glacier,Exists,0.563499,,46.829883,-121.784992,2006-08-01,56.8,WA,Washington
+Suiattle Glacier,Exists,2.96311,,48.075646,-121.073337,2006-08-01,56.8,WA,Washington
+Milk Creek Glacier,Exists,0.038664,,44.673894,-121.800158,2006-08-01,56.8,OR,Oregon
+Mount Fiske Glacier,Exists,0.110994,,37.140897,-118.667717,2006-08-01,56.8,AZ,Arizona
+Mount Fiske Glacier,Exists,0.110994,,37.140897,-118.667717,2006-08-01,56.8,CA,California
+Isabelle Glacier,Exists,0.116473,,40.063783,-105.641977,2006-08-01,56.8,IA,Iowa
+Isabelle Glacier,Exists,0.116473,,40.063783,-105.641977,2006-08-01,56.8,CO,Colorado
+Snow Creek Glacier,Gone,0.117731,1441756800.0,47.474121,-120.812281,2006-08-01,56.8,KS,Kansas
+Snow Creek Glacier,Gone,0.117731,1441756800.0,47.474121,-120.812281,2006-08-01,56.8,WA,Washington
+Snow Creek Glacier,Gone,0.117731,1441756800.0,47.474121,-120.812281,2006-08-01,56.8,IN,Indiana
+Whatcom Glacier,Exists,0.370739,,48.864103,-121.367974,2006-08-01,56.8,WA,Washington
+Vesper Glacier,Exists,0.244356,,48.016458,-121.516246,2006-08-01,56.8,WA,Washington
+Wyeth Glacier,Exists,0.775242,,48.499852,-120.947533,2006-08-01,56.8,WA,Washington
+Bend Glacier,Exists,0.811923,,44.091746,-121.690734,2006-08-01,56.8,OR,Oregon
+Arikaree Glacier,Exists,0.052556,,40.050409,-105.641977,2006-08-01,56.8,IA,Iowa
+Arikaree Glacier,Exists,0.052556,,40.050409,-105.641977,2006-08-01,56.8,CO,Colorado
+Camp Kiser,Gone,0.222826,747532800.0,48.806645,-121.720387,2006-08-01,56.8,WA,Washington
+The Turtle,Exists,0.105246,,46.82677,-121.756934,2006-08-01,56.8,WA,Washington
+The Turtle,Exists,0.105246,,46.82677,-121.756934,2006-08-01,56.8,IA,Iowa
+Carver Glacier OR,Exists,0.126001,,44.120665,-121.765837,2006-08-01,56.8,OR,Oregon
+Weasel Collar Glacier,Exists,0.557756,,48.900894,-114.066235,2006-08-01,56.8,MT,Montana
+Deming Glacier,Exists,4.99592,,48.775857,-121.820196,2006-08-01,56.8,WA,Washington
+Swan Glaciers MT,Exists,0.08925,,47.724457,-113.6364,2006-08-01,56.8,OR,Oregon
+Swan Glaciers MT,Exists,0.08925,,47.724457,-113.6364,2006-08-01,56.8,MT,Montana
+Packwood Glacier,Gone,0.193024,1126224000.0,46.521639,-121.465282,2006-08-01,56.8,WA,Washington
+Packwood Glacier,Gone,0.193024,1126224000.0,46.521639,-121.465282,2006-08-01,56.8,IA,Iowa
+Arapaho Glacier,Exists,0.243677,,40.023306,-105.64467,2006-08-01,56.8,IA,Iowa
+Arapaho Glacier,Exists,0.243677,,40.023306,-105.64467,2006-08-01,56.8,CO,Colorado
+Pinnacle Glacier,Exists,1.37415,,46.215064,-121.540531,2006-08-01,56.8,WA,Washington
+Flett Glacier,Exists,0.263819,,46.908923,-121.806828,2006-08-01,56.8,AL,Alabama
+Flett Glacier,Exists,0.263819,,46.908923,-121.806828,2006-08-01,56.8,WA,Washington
+Goethe Glacier,Exists,0.277277,,37.211863,-118.713192,2006-08-01,56.8,AZ,Arizona
+Goethe Glacier,Exists,0.277277,,37.211863,-118.713192,2006-08-01,56.8,CA,California
+Lost Creek Glacier,Exists,0.557158,,44.112654,-121.784819,2006-08-01,56.8,OR,Oregon
+Sacagawea,Exists,3.27765,,43.148514,-109.630797,2006-08-01,56.8,WY,Wyoming
+Sacagawea,Exists,3.27765,,43.148514,-109.630797,2006-08-01,56.8,AZ,Arizona
+Bolam Glacier,Exists,0.938917,,41.429912,-122.20617,2006-08-01,56.8,CA,California
+Dana Glacier,Exists,2.52233,,48.328374,-121.062413,2006-08-01,56.8,WA,Washington
+Benson Glacier,Exists,0.016487,,45.156692,-117.295305,2006-08-01,56.8,OR,Oregon
+Bull Lake Glacier,Exists,1.36005,,43.126613,-109.593615,2006-08-01,56.8,WY,Wyoming
+Bull Lake Glacier,Exists,1.36005,,43.126613,-109.593615,2006-08-01,56.8,AZ,Arizona
+Arts Knoll,Gone,0.077099,1126224000.0,48.431603,-121.045189,2006-08-01,56.8,WA,Washington
+Schoolroom Glacier,Exists,0.042202,,43.726327,-110.84787,2006-08-01,56.8,WY,Wyoming
+Lewis Glacier,Gone,0.172003,652838400.0,48.508515,-120.793851,2006-08-01,56.8,MA,Massachusetts
+Lewis Glacier,Gone,0.172003,652838400.0,48.508515,-120.793851,2006-08-01,56.8,MN,Minnesota
+Lewis Glacier,Gone,0.172003,652838400.0,48.508515,-120.793851,2006-08-01,56.8,IA,Iowa
+Lewis Glacier,Gone,0.172003,652838400.0,48.508515,-120.793851,2006-08-01,56.8,WA,Washington
+Lewis Glacier,Gone,0.172003,652838400.0,48.508515,-120.793851,2006-08-01,56.8,AR,Arkansas
+Lewis Glacier,Gone,0.172003,652838400.0,48.508515,-120.793851,2006-08-01,56.8,NY,New York
+Carver Glacier,Exists,0.085528,,44.124838,-121.766944,2006-08-01,56.8,OR,Oregon
+Kennedy Glacier,Exists,1.56921,,48.130408,-121.140856,2006-08-01,56.8,WA,Washington
+Lava Glacier,Exists,1.6617,,46.23695,-121.501194,2006-08-01,56.8,WA,Washington
+Whitman Glacier,Exists,2.21267,,46.845326,-121.705292,2006-08-01,56.8,WA,Washington
+Whitman Glacier,Exists,2.21267,,46.845326,-121.705292,2006-08-01,56.8,IA,Iowa
+Triple Glaciers,Exists,0.198245,,43.835988,-110.786406,2006-08-01,56.8,WY,Wyoming
+Phantom Glacier,Exists,0.092227,,45.154624,-109.740416,2006-08-01,56.8,MT,Montana
+Mazama Glacier,Exists,1.40567,,46.19091,-121.485616,2006-08-01,56.8,WA,Washington
+Mount Watson East,Gone,0.130727,1441756800.0,48.65455,-121.558147,2006-08-01,56.8,WA,Washington
+Mountaineer Glacier,Exists,0.13097,,47.34238,-113.876272,2006-08-01,56.8,MT,Montana
+Conness Glacier,Exists,0.264072,,37.969652,-119.32305,2006-08-01,56.8,CA,California
+Meade Glacier,Exists,0.57732,,46.490138,-121.397043,2006-08-01,56.8,WA,Washington
+Meade Glacier,Exists,0.57732,,46.490138,-121.397043,2006-08-01,56.8,IA,Iowa
+Toutle Glacier,Exists,0.229879,,46.206373,-122.202175,2006-08-01,56.8,IL,Illinois
+Toutle Glacier,Exists,0.229879,,46.206373,-122.202175,2006-08-01,56.8,MS,Mississippi
+Toutle Glacier,Exists,0.229879,,46.206373,-122.202175,2006-08-01,56.8,PA,Pennsylvania
+Toutle Glacier,Exists,0.229879,,46.206373,-122.202175,2006-08-01,56.8,TX,Texas
+Toutle Glacier,Exists,0.229879,,46.206373,-122.202175,2006-08-01,56.8,WA,Washington
+Toutle Glacier,Exists,0.229879,,46.206373,-122.202175,2006-08-01,56.8,MN,Minnesota
+Glisan Glacier,Exists,0.502911,,45.392987,-121.71912,2006-08-01,56.8,OR,Oregon
+Stuart Glacier,Exists,0.143014,,47.479723,-120.89534,2006-08-01,56.8,KS,Kansas
+Stuart Glacier,Exists,0.143014,,47.479723,-120.89534,2006-08-01,56.8,WA,Washington
+Stuart Glacier,Exists,0.143014,,47.479723,-120.89534,2006-08-01,56.8,IN,Indiana
+Daniels Glacier WA,Exists,0.434678,,47.565955,-121.177726,2006-08-01,56.8,WA,Washington
+Miche Wabun Glacier,Exists,0.202087,,48.945657,-113.836229,2006-08-01,56.8,MT,Montana
+Connie Glacier,Exists,0.455213,,43.270928,-109.68989,2006-08-01,56.8,WY,Wyoming
+Connie Glacier,Exists,0.455213,,43.270928,-109.68989,2006-08-01,56.8,ID,Idaho
+Connie Glacier,Exists,0.455213,,43.270928,-109.68989,2006-08-01,56.8,IN,Indiana
+Edmunds Glacier,Exists,1.33392,,46.873102,-121.814169,2006-08-01,56.8,AL,Alabama
+Edmunds Glacier,Exists,1.33392,,46.873102,-121.814169,2006-08-01,56.8,WA,Washington
+Inspiration Glacier,Exists,5.32121,,48.552967,-121.110203,2006-08-01,56.8,WA,Washington
+Matthes Glaciers CA,Exists,0.022922,,37.225721,-118.754608,2006-08-01,56.8,AZ,Arizona
+Matthes Glaciers CA,Exists,0.022922,,37.225721,-118.754608,2006-08-01,56.8,CA,California
+Stevens Glacier,Gone,0.038644,1599609600.0,46.814002,-121.70752,2006-08-01,56.8,WA,Washington
+Stevens Glacier,Gone,0.038644,1599609600.0,46.814002,-121.70752,2006-08-01,56.8,IA,Iowa
+Harrower Glacier,Gone,0.215616,1441756800.0,43.104665,-109.589819,2006-08-01,56.8,WY,Wyoming
+Harrower Glacier,Gone,0.215616,1441756800.0,43.104665,-109.589819,2006-08-01,56.8,AZ,Arizona
+Pumpelly Glacier,Exists,0.942629,,48.589573,-113.645204,2006-08-01,56.8,MT,Montana
+Coalman Glacier,Exists,0.209757,,45.376034,-121.700848,2006-08-01,56.8,OR,Oregon
+Helen Glacier,Exists,1.38586,,43.15551,-109.63053,2006-08-01,56.8,WY,Wyoming
+Helen Glacier,Exists,1.38586,,43.15551,-109.63053,2006-08-01,56.8,AZ,Arizona
+Grant Glacier,Exists,0.364351,,48.227874,-120.899245,2006-08-01,56.8,WA,Washington
+Lyell Glacier,Exists,0.368568,,37.744824,-119.270597,2006-08-01,56.8,CA,California
+Spider Glacier,Gone,0.11509,1126224000.0,48.168657,-120.881048,2006-08-01,56.8,KS,Kansas
+Spider Glacier,Gone,0.11509,1126224000.0,48.168657,-120.881048,2006-08-01,56.8,WA,Washington
+Spider Glacier,Gone,0.11509,1126224000.0,48.168657,-120.881048,2006-08-01,56.8,IN,Indiana
+Price Glacier,Exists,1.61501,,48.850685,-121.603857,2006-08-01,56.8,WA,Washington
+Old Sun Glacier,Exists,0.421243,,48.875011,-113.774588,2006-08-01,56.8,MT,Montana
+Kintla Glacier,Exists,1.27294,,48.933857,-114.211226,2006-08-01,56.8,MT,Montana
+Grasshopper Glacier,Exists,3.28473,,43.252303,-109.663605,2006-08-01,56.8,WY,Wyoming
+Grasshopper Glacier,Exists,3.28473,,43.252303,-109.663605,2006-08-01,56.8,ID,Idaho
+Grasshopper Glacier,Exists,3.28473,,43.252303,-109.663605,2006-08-01,56.8,IN,Indiana
+White Salmon-Avalanche Glacier WA,Exists,0.001595,,46.181541,-121.517612,2006-08-01,56.8,WA,Washington
+Newton Clark Glacier,Exists,2.39159,,45.375038,-121.673229,2006-08-01,56.8,OR,Oregon
+Sky Top Glacier,Exists,0.268251,,45.160407,-109.81356,2006-08-01,56.8,MT,Montana
+Davenport Glacier,Exists,0.264124,,48.493822,-121.028262,2006-08-01,56.8,WA,Washington
+Two Ocean Glacier,Exists,0.431399,,48.838598,-114.01527,2006-08-01,56.8,MT,Montana
+Whitewater Glacier,Exists,3.0169,,44.696176,-121.792384,2006-08-01,56.8,OR,Oregon
+Forbidden Glacier,Exists,1.33623,,48.522996,-121.056295,2006-08-01,56.8,WA,Washington
+Fremont Glacier,Exists,0.948383,,48.53938,-120.958635,2006-08-01,56.8,WA,Washington
+Peck Glacier,Exists,0.061249,,40.066614,-105.665232,2006-08-01,56.8,IA,Iowa
+Peck Glacier,Exists,0.061249,,40.066614,-105.665232,2006-08-01,56.8,CO,Colorado
+Dryer Glacier,Exists,0.114702,,46.187869,-122.192587,2006-08-01,56.8,IL,Illinois
+Dryer Glacier,Exists,0.114702,,46.187869,-122.192587,2006-08-01,56.8,MS,Mississippi
+Dryer Glacier,Exists,0.114702,,46.187869,-122.192587,2006-08-01,56.8,PA,Pennsylvania
+Dryer Glacier,Exists,0.114702,,46.187869,-122.192587,2006-08-01,56.8,TX,Texas
+Dryer Glacier,Exists,0.114702,,46.187869,-122.192587,2006-08-01,56.8,WA,Washington
+Dryer Glacier,Exists,0.114702,,46.187869,-122.192587,2006-08-01,56.8,MN,Minnesota
+Zigzag Glacier,Exists,3.11621,,45.370953,-121.70245,2006-08-01,56.8,OR,Oregon
+Lyman Glacier,Exists,2.50285,,46.230327,-121.479831,2006-08-01,56.8,WA,Washington
+Cool Glacier,Exists,1.69773,,48.108961,-121.113926,2006-08-01,56.8,WA,Washington
+Black Peak,Gone,0.081082,1662681600.0,48.524125,-120.80705,2006-08-01,56.8,WA,Washington
+Eldorado Glacier,Exists,1.18317,,48.519821,-121.149184,2006-08-01,56.8,WA,Washington
+Jackson Glacier,Exists,1.25483,,48.595474,-113.709707,2006-08-01,56.8,MT,Montana
+Stroud Glacier,Exists,0.519982,,43.150511,-109.677425,2006-08-01,56.8,WY,Wyoming
+Stroud Glacier,Exists,0.519982,,43.150511,-109.677425,2006-08-01,56.8,AZ,Arizona
+Forbidden Peak S.,Gone,0.14716,1631145600.0,48.510576,-121.060597,2006-08-01,56.8,WA,Washington
+Pilz Glacier,Exists,0.90512,,48.064473,-120.990743,2006-08-01,56.8,WA,Washington
+The Triplets,Gone,0.054613,1631145600.0,48.464451,-121.070963,2006-08-01,56.8,WA,Washington
+Ice Cliff Glacier,Exists,0.093858,,47.47457,-120.895997,2006-08-01,56.8,KS,Kansas
+Ice Cliff Glacier,Exists,0.093858,,47.47457,-120.895997,2006-08-01,56.8,WA,Washington
+Ice Cliff Glacier,Exists,0.093858,,47.47457,-120.895997,2006-08-01,56.8,IN,Indiana
+Knife Point Glacier,Exists,1.2957,,43.119944,-109.579631,2006-08-01,56.8,WY,Wyoming
+Knife Point Glacier,Exists,1.2957,,43.119944,-109.579631,2006-08-01,56.8,AZ,Arizona
+New Morning Peak,Gone,0.076414,1662681600.0,48.580025,-120.844719,2006-08-01,56.8,WA,Washington
+Kautz Glacier,Exists,1.65897,,46.84576,-121.761201,2006-08-01,56.8,WA,Washington
+Kautz Glacier,Exists,1.65897,,46.84576,-121.761201,2006-08-01,56.8,IA,Iowa
+Ingraham Glacier,Exists,3.97924,,46.811994,-121.682793,2006-08-01,56.8,WA,Washington
+Ingraham Glacier,Exists,3.97924,,46.811994,-121.682793,2006-08-01,56.8,IA,Iowa
+Castle Rock Glacier,Exists,1.47841,,45.095956,-109.656083,2006-08-01,56.8,MT,Montana
+Upper Fremont Glacier,Exists,1.59016,,43.132624,-109.623781,2006-08-01,56.8,WY,Wyoming
+Upper Fremont Glacier,Exists,1.59016,,43.132624,-109.623781,2006-08-01,56.8,AZ,Arizona
+Challenger Glacier,Exists,4.38247,,48.84901,-121.372632,2006-08-01,56.8,WA,Washington
+Sperry Glacier,Exists,1.28085,,48.625219,-113.767152,2006-08-01,56.8,MT,Montana
+Renfrew Glacier,Exists,0.442939,,44.156508,-121.790185,2006-08-01,56.8,OR,Oregon
+Entiat Glacier,Exists,0.802658,,48.144386,-120.802434,2006-08-01,56.8,KS,Kansas
+Entiat Glacier,Exists,0.802658,,48.144386,-120.802434,2006-08-01,56.8,WA,Washington
+Entiat Glacier,Exists,0.802658,,48.144386,-120.802434,2006-08-01,56.8,IN,Indiana
+Emmons Glacier,Exists,10.5937,,46.875301,-121.678285,2006-08-01,56.8,WA,Washington
+Emmons Glacier,Exists,10.5937,,46.875301,-121.678285,2006-08-01,56.8,IA,Iowa
+Redoubt Glacier,Exists,2.63975,,48.955582,-121.299301,2006-08-01,56.8,WA,Washington
+Konwakiton Glacier,Exists,0.153712,,41.398576,-122.195863,2006-08-01,56.8,CA,California
+Middle Cascade Glacier,Exists,1.27478,,48.41771,-121.050537,2006-08-01,56.8,WA,Washington
+Colonial Glacier,Exists,0.978717,,48.6628,-121.133795,2006-08-01,56.8,WA,Washington
+Linn Glacier OR,Exists,0.144214,,44.175803,-121.772806,2006-08-01,56.8,OR,Oregon
+Neve Glacier,Exists,4.36014,,48.640113,-121.126302,2006-08-01,56.8,WA,Washington
+McDonald Glacier,Exists,0.461456,,47.392268,-113.915478,2006-08-01,56.8,MT,Montana
+Carbon Glacier,Exists,8.00378,,46.943119,-121.791887,2006-08-01,56.8,WA,Washington
+North Mowich Glacier,Exists,6.19292,,46.888235,-121.835338,2006-08-01,56.8,AL,Alabama
+North Mowich Glacier,Exists,6.19292,,46.888235,-121.835338,2006-08-01,56.8,WA,Washington
+Snowbank Glacier,Exists,0.652206,,45.092554,-109.693166,2006-08-01,56.8,MT,Montana
+Lemah,Gone,0.126618,1662681600.0,47.4929,-121.299771,2006-08-01,56.8,WA,Washington
+Henderson Glacier CO,Exists,0.072485,,40.031534,-105.642702,2006-08-01,56.8,IA,Iowa
+Henderson Glacier CO,Exists,0.072485,,40.031534,-105.642702,2006-08-01,56.8,CO,Colorado
+Liberty Gap Glacier,Exists,2.10313,,46.868626,-121.774531,2006-08-01,56.8,AL,Alabama
+Liberty Gap Glacier,Exists,2.10313,,46.868626,-121.774531,2006-08-01,56.8,WA,Washington
+Borealis Glacier,Exists,1.20787,,48.593128,-121.093728,2006-08-01,56.8,WA,Washington
+Terror Glacier,Exists,0.728283,,48.764359,-121.28653,2006-08-01,56.8,WA,Washington
+Sulphide Glacier,Exists,4.01026,,48.816023,-121.62593,2006-08-01,56.8,WA,Washington
+Klawatti Glacier,Exists,2.1955,,48.56665,-121.096179,2006-08-01,56.8,WA,Washington
+Swan Glaciers,Exists,0.187344,,47.721684,-113.628782,2006-08-01,56.8,OR,Oregon
+Swan Glaciers,Exists,0.187344,,47.721684,-113.628782,2006-08-01,56.8,MT,Montana
+Sexton Glacier,Exists,0.397364,,48.698636,-113.63557,2006-08-01,56.8,MT,Montana
+Stuart West,Gone,0.092528,1662681600.0,47.483362,-120.907733,2006-08-01,56.8,KS,Kansas
+Stuart West,Gone,0.092528,1662681600.0,47.483362,-120.907733,2006-08-01,56.8,WA,Washington
+Stuart West,Gone,0.092528,1662681600.0,47.483362,-120.907733,2006-08-01,56.8,IN,Indiana
+Crystal Glacier,Exists,2.38462,,48.830734,-121.602713,2006-08-01,56.8,WA,Washington
+East Nooksack Glacier,Exists,2.82168,,48.831316,-121.592158,2006-08-01,56.8,WA,Washington
+Minor Glacier,Exists,0.645376,,43.191093,-109.661079,2006-08-01,56.8,WY,Wyoming
+Minor Glacier,Exists,0.645376,,43.191093,-109.661079,2006-08-01,56.8,ID,Idaho
+Minor Glacier,Exists,0.645376,,43.191093,-109.661079,2006-08-01,56.8,IN,Indiana
+Downs Glacier,Exists,0.614897,,43.294347,-109.656843,2006-08-01,56.8,WY,Wyoming
+Downs Glacier,Exists,0.614897,,43.294347,-109.656843,2006-08-01,56.8,ID,Idaho
+Downs Glacier,Exists,0.614897,,43.294347,-109.656843,2006-08-01,56.8,IN,Indiana
+North Guardian Glacier,Exists,1.08719,,48.120977,-121.104135,2006-08-01,56.8,WA,Washington
+Boston Glacier,Exists,6.75824,,48.505376,-121.001227,2006-08-01,56.8,WA,Washington
+Diller Glacier,Exists,0.657319,,44.148596,-121.77826,2006-08-01,56.8,OR,Oregon
+Jefferson Park Glacier,Exists,0.623515,,44.686462,-121.805087,2006-08-01,56.8,OR,Oregon
+Nisqually Glacier,Exists,4.44398,,46.815654,-121.746016,2006-08-01,56.8,WA,Washington
+Nisqually Glacier,Exists,4.44398,,46.815654,-121.746016,2006-08-01,56.8,IA,Iowa
+Yawning Glacier,Exists,0.11454,,48.44983,-121.038972,2006-08-01,56.8,WA,Washington
+Thunder Glacier,Exists,0.939067,,48.773485,-121.873228,2006-08-01,56.8,WA,Washington
+Norman Clyde Glacier,Exists,0.483773,,37.0781,-118.478498,2006-08-01,56.8,CA,California
+Kimtah Glacier,Exists,0.902046,,48.591543,-120.91617,2006-08-01,56.8,WA,Washington
+White Chuck Glacier,Exists,2.82167,,48.067827,-121.127932,2006-08-01,56.8,WA,Washington
+Arriva Peak,Gone,0.168864,1662681600.0,48.552185,-120.851448,2006-08-01,56.8,WA,Washington
+Granite Glacier,Exists,0.231083,,45.170356,-109.808494,2006-08-01,56.8,MT,Montana
+Park Glacier,Exists,3.14889,,48.784913,-121.785689,2006-08-01,56.8,WA,Washington
+Douglas Glacier,Exists,2.15483,,48.538232,-120.949091,2006-08-01,56.8,WA,Washington
+Ahern Glacier,Exists,0.580561,,48.846769,-113.787226,2006-08-01,56.8,MT,Montana
+Whitecrow Glacier,Exists,0.242391,,48.919109,-113.838218,2006-08-01,56.8,MT,Montana
+Ipasha Glacier,Exists,0.320005,,48.843057,-113.817214,2006-08-01,56.8,MT,Montana
+Puyallup Glacier,Exists,4.01678,,46.853723,-121.817658,2006-08-01,56.8,AL,Alabama
+Puyallup Glacier,Exists,4.01678,,46.853723,-121.817658,2006-08-01,56.8,WA,Washington
+Lyall Glacier,Gone,0.252318,1126224000.0,48.487257,-120.751216,2006-08-01,56.8,MA,Massachusetts
+Lyall Glacier,Gone,0.252318,1126224000.0,48.487257,-120.751216,2006-08-01,56.8,MN,Minnesota
+Lyall Glacier,Gone,0.252318,1126224000.0,48.487257,-120.751216,2006-08-01,56.8,IA,Iowa
+Lyall Glacier,Gone,0.252318,1126224000.0,48.487257,-120.751216,2006-08-01,56.8,WA,Washington
+Lyall Glacier,Gone,0.252318,1126224000.0,48.487257,-120.751216,2006-08-01,56.8,AR,Arkansas
+Lyall Glacier,Gone,0.252318,1126224000.0,48.487257,-120.751216,2006-08-01,56.8,NY,New York
+Ice Worm Glacier,Gone,0.192104,1694217600.0,47.560851,-121.162196,2006-08-01,56.8,WA,Washington
+Cowlitz Glacier,Exists,3.56725,,46.828266,-121.704703,2006-08-01,56.8,WA,Washington
+Cowlitz Glacier,Exists,3.56725,,46.828266,-121.704703,2006-08-01,56.8,IA,Iowa
+Blackfoot Glacier,Exists,1.75433,,48.598742,-113.671342,2006-08-01,56.8,MT,Montana
+Darwin Glacier,Exists,0.157167,,37.171533,-118.681202,2006-08-01,56.8,AZ,Arizona
+Darwin Glacier,Exists,0.157167,,37.171533,-118.681202,2006-08-01,56.8,CA,California
+Eugene Glacier,Exists,0.094732,,44.108687,-121.779188,2006-08-01,56.8,OR,Oregon
+Stanton Glacier,Exists,0.522775,,48.342767,-113.782403,2006-08-01,56.8,MT,Montana
+Success Glacier,Exists,0.751104,,46.834692,-121.772576,2006-08-01,56.8,WA,Washington
+Success Glacier,Exists,0.751104,,46.834692,-121.772576,2006-08-01,56.8,IA,Iowa
+Fryingpan Glacier,Exists,3.52295,,46.85028,-121.70454,2006-08-01,56.8,WA,Washington
+Fryingpan Glacier,Exists,3.52295,,46.85028,-121.70454,2006-08-01,56.8,IA,Iowa
+Ladd Glacier,Exists,0.529304,,45.393833,-121.701359,2006-08-01,56.8,OR,Oregon
+Maclure Glacier,Exists,0.263091,,37.747767,-119.278649,2006-08-01,56.8,CA,California
+Richardson Glacier,Exists,0.746393,,48.060023,-120.984018,2006-08-01,56.8,WA,Washington
+Piegan Glacier,Exists,0.280099,,48.709087,-113.681383,2006-08-01,56.8,MT,Montana
+Chocolate Glacier,Exists,2.52548,,48.115207,-121.11523,2006-08-01,56.8,WA,Washington
+Easton Glacier,Exists,2.8879,,48.750097,-121.841299,2006-08-01,56.8,WA,Washington
+Sherpa Glacier,Exists,0.140676,,47.475922,-120.889958,2006-08-01,56.8,KS,Kansas
+Sherpa Glacier,Exists,0.140676,,47.475922,-120.889958,2006-08-01,56.8,WA,Washington
+Sherpa Glacier,Exists,0.140676,,47.475922,-120.889958,2006-08-01,56.8,IN,Indiana
+Waldo Glacier,Exists,0.363726,,44.665517,-121.796465,2006-08-01,56.8,OR,Oregon
+Mud Creek Glacier,Exists,0.109618,,41.388448,-122.195858,2006-08-01,56.8,CA,California
+Colchuck Glacier,Exists,0.180558,,47.484333,-120.838365,2006-08-01,56.8,KS,Kansas
+Colchuck Glacier,Exists,0.180558,,47.484333,-120.838365,2006-08-01,56.8,WA,Washington
+Colchuck Glacier,Exists,0.180558,,47.484333,-120.838365,2006-08-01,56.8,IN,Indiana
+Diptop,Gone,0.116237,1441756800.0,47.588671,-121.177815,2006-08-01,56.8,WA,Washington
+Whitney Glacier,Exists,1.29149,,41.411029,-122.212466,2006-08-01,56.8,CA,California
+Coleman Glacier,Exists,6.83368,,48.785738,-121.88439,2006-08-01,56.8,WA,Washington
+Lilliput Glacier,Exists,0.048057,,36.572733,-118.555118,2006-08-01,56.8,MI,Michigan
+Lilliput Glacier,Exists,0.048057,,36.572733,-118.555118,2006-08-01,56.8,OR,Oregon
+Lilliput Glacier,Exists,0.048057,,36.572733,-118.555118,2006-08-01,56.8,CA,California
+Lilliput Glacier,Exists,0.048057,,36.572733,-118.555118,2006-08-01,56.8,TX,Texas
+Roosevelt Glacier,Exists,3.5706,,48.78194,-121.814391,2006-08-01,56.8,WA,Washington
+Honeycomb Glacier,Exists,3.98317,,48.065231,-121.08986,2006-08-01,56.8,WA,Washington
+Cascade Peak,Gone,0.059595,1631145600.0,48.465592,-121.07815,2006-08-01,56.8,WA,Washington
+Coleman Pinnacle,Gone,0.156684,1536451200.0,48.826389,-121.732851,2006-08-01,56.8,WA,Washington
+Goode Glacier,Exists,0.547384,,48.490461,-120.903953,2006-08-01,56.8,WA,Washington
+Kyes Peak,Gone,0.087154,1662681600.0,47.967067,-121.340995,2006-08-01,56.8,WA,Washington
+Kyes Peak,Gone,0.087154,1662681600.0,47.967067,-121.340995,2006-08-01,56.8,MO,Missouri
+South Tahoma Glacier,Exists,2.8202,,46.82135,-121.812558,2006-08-01,56.8,AL,Alabama
+South Tahoma Glacier,Exists,2.8202,,46.82135,-121.812558,2006-08-01,56.8,WA,Washington
+Prouty Glacier,Exists,1.18366,,44.115587,-121.75704,2006-08-01,56.8,OR,Oregon
+Dinwoody Glacier,Exists,3.06131,,43.17609,-109.654898,2006-08-01,56.8,WY,Wyoming
+Dinwoody Glacier,Exists,3.06131,,43.17609,-109.654898,2006-08-01,56.8,ID,Idaho
+Dinwoody Glacier,Exists,3.06131,,43.17609,-109.654898,2006-08-01,56.8,IN,Indiana
+Wilson Glacier,Exists,1.43205,,46.211414,-121.48212,2006-08-01,56.8,WA,Washington
+South Mowich Glacier,Exists,4.03507,,46.858294,-121.778675,2006-08-01,56.8,AL,Alabama
+South Mowich Glacier,Exists,4.03507,,46.858294,-121.778675,2006-08-01,56.8,WA,Washington
+Continental Glacier,Exists,2.50456,,43.347472,-109.702891,2006-08-01,56.8,WY,Wyoming
+Continental Glacier,Exists,2.50456,,43.347472,-109.702891,2006-08-01,56.8,ID,Idaho
+Continental Glacier,Exists,2.50456,,43.347472,-109.702891,2006-08-01,56.8,IN,Indiana
+Sholes Glacier,Exists,1.18884,,48.809237,-121.780149,2006-08-01,56.8,WA,Washington
+Talus Glacier,Exists,0.269268,,46.202869,-122.211866,2006-08-01,56.8,IL,Illinois
+Talus Glacier,Exists,0.269268,,46.202869,-122.211866,2006-08-01,56.8,MS,Mississippi
+Talus Glacier,Exists,0.269268,,46.202869,-122.211866,2006-08-01,56.8,PA,Pennsylvania
+Talus Glacier,Exists,0.269268,,46.202869,-122.211866,2006-08-01,56.8,TX,Texas
+Talus Glacier,Exists,0.269268,,46.202869,-122.211866,2006-08-01,56.8,WA,Washington
+Talus Glacier,Exists,0.269268,,46.202869,-122.211866,2006-08-01,56.8,MN,Minnesota
+Navajo Glacier,Exists,0.034276,,40.056127,-105.647242,2006-08-01,56.8,IA,Iowa
+Navajo Glacier,Exists,0.034276,,40.056127,-105.647242,2006-08-01,56.8,CO,Colorado
+Conrad Glacier,Gone,0.561337,1631145600.0,46.497206,-121.404093,2006-08-01,56.8,WA,Washington
+Conrad Glacier,Gone,0.561337,1631145600.0,46.497206,-121.404093,2006-08-01,56.8,IA,Iowa
+Washakie Glacier,Exists,0.132745,,42.810924,-109.24656,2006-08-01,56.8,WY,Wyoming
+Spire Glacier,Exists,0.928217,,48.319457,-121.071091,2006-08-01,56.8,WA,Washington
+So-Bahli-Alhi Glacier,Exists,0.285668,,48.216738,-121.67715,2006-08-01,56.8,WA,Washington
+Hudson Glacier,Exists,0.087046,,48.963482,-114.047961,2006-08-01,56.8,MT,Montana
+Skinner Glacier,Exists,0.210548,,44.114889,-121.770567,2006-08-01,56.8,OR,Oregon
+Muir Snowfield,Exists,0.97718,,46.833262,-121.738316,2006-08-01,56.8,WA,Washington
+Muir Snowfield,Exists,0.97718,,46.833262,-121.738316,2006-08-01,56.8,IA,Iowa
+Coe Glacier,Exists,1.18648,,45.398876,-121.694019,2006-08-01,56.8,OR,Oregon
+Fishhawk Glacier,Exists,0.252574,,44.26046,-109.864056,2006-08-01,56.8,WY,Wyoming
+Fishhawk Glacier,Exists,0.252574,,44.26046,-109.864056,2006-08-01,56.8,ID,Idaho
+Fishhawk Glacier,Exists,0.252574,,44.26046,-109.864056,2006-08-01,56.8,IN,Indiana
+White Salmon Glacier,Exists,2.00348,,46.179168,-121.516656,2006-08-01,56.8,WA,Washington
+Klickitat Glacier,Exists,2.58661,,46.202919,-121.482745,2006-08-01,56.8,WA,Washington
+Buckner Glacier,Exists,0.539885,,48.487869,-120.992799,2006-08-01,56.8,WA,Washington
+Sandy Glacier,Exists,1.43068,,45.387188,-121.71983,2006-08-01,56.8,OR,Oregon
+Red Eagle Glacier,Exists,0.180606,,48.596737,-113.621627,2006-08-01,56.8,MT,Montana
+Boulder Glacier,Exists,6.2899,,48.775833,-121.820157,2006-08-01,56.8,WA,Washington
+Hinman Glacier,Gone,1.25881,1662681600.0,47.582977,-121.232158,2006-08-01,56.8,WA,Washington
+Dome Glacier,Exists,1.06205,,48.307342,-121.030109,2006-08-01,56.8,WA,Washington
+Scimitar Glacier,Exists,0.785839,,48.12767,-121.144107,2006-08-01,56.8,WA,Washington
+Skillet Glacier,Exists,0.140572,,43.837938,-110.761488,2006-08-01,56.8,NC,North Carolina
+Skillet Glacier,Exists,0.140572,,43.837938,-110.761488,2006-08-01,56.8,WY,Wyoming
+Collier Glacier,Exists,1.1698,,44.171218,-121.789851,2006-08-01,56.8,OR,Oregon
+Hotlum Glacier,Exists,1.34821,,41.42628,-122.187551,2006-08-01,56.8,CA,California
+Mary Green Glacier,Exists,0.563629,,48.238557,-120.851729,2006-08-01,56.8,WA,Washington
+Siyeh Glacier,Exists,0.211263,,48.730324,-113.654837,2006-08-01,56.8,MT,Montana
+Mixup Peak,Gone,0.059629,1631145600.0,48.450757,-121.046449,2006-08-01,56.8,WA,Washington
+Thunderbird Glacier,Exists,0.13333,,48.932912,-114.041734,2006-08-01,56.8,MT,Montana
+Fair Glacier,Exists,0.097029,,40.062422,-105.657076,2006-08-01,56.8,IA,Iowa
+Fair Glacier,Exists,0.097029,,40.062422,-105.657076,2006-08-01,56.8,CO,Colorado
+Sourdough Glacier,Exists,1.32901,,43.248601,-109.692928,2006-08-01,56.8,WY,Wyoming
+Sourdough Glacier,Exists,1.32901,,43.248601,-109.692928,2006-08-01,56.8,ID,Idaho
+Sourdough Glacier,Exists,1.32901,,43.248601,-109.692928,2006-08-01,56.8,IN,Indiana
+No Name Glacier,Exists,0.536439,,48.807323,-121.816097,2006-08-01,56.8,WA,Washington
+Watson Glacier WA,Exists,0.268607,,48.656074,-121.573573,2006-08-01,56.8,TX,Texas
+Watson Glacier WA,Exists,0.268607,,48.656074,-121.573573,2006-08-01,56.8,IN,Indiana
+Watson Glacier WA,Exists,0.268607,,48.656074,-121.573573,2006-08-01,56.8,AR,Arkansas
+Watson Glacier WA,Exists,0.268607,,48.656074,-121.573573,2006-08-01,56.8,KY,Kentucky
+Watson Glacier WA,Exists,0.268607,,48.656074,-121.573573,2006-08-01,56.8,WA,Washington
+Talum Glaciers,Exists,2.15527,,48.763046,-121.815756,2006-08-01,56.8,WA,Washington
+Hopper Glacier,Exists,0.393425,,45.082852,-109.61248,2006-08-01,56.8,IL,Illinois
+Hopper Glacier,Exists,0.393425,,45.082852,-109.61248,2006-08-01,56.8,TX,Texas
+Hopper Glacier,Exists,0.393425,,45.082852,-109.61248,2006-08-01,56.8,PA,Pennsylvania
+Hopper Glacier,Exists,0.393425,,45.082852,-109.61248,2006-08-01,56.8,NY,New York
+Hopper Glacier,Exists,0.393425,,45.082852,-109.61248,2006-08-01,56.8,SD,South Dakota
+Hopper Glacier,Exists,0.393425,,45.082852,-109.61248,2006-08-01,56.8,MO,Missouri
+Hopper Glacier,Exists,0.393425,,45.082852,-109.61248,2006-08-01,56.8,MN,Minnesota
+Hopper Glacier,Exists,0.393425,,45.082852,-109.61248,2006-08-01,56.8,NE,Nebraska
+Hopper Glacier,Exists,0.393425,,45.082852,-109.61248,2006-08-01,56.8,MT,Montana
+Blackwell Glacier,Exists,0.301021,,48.23392,-115.683737,2006-08-01,56.8,MT,Montana
+Herbst Glacier,Exists,0.13068,,48.987397,-114.052097,2006-08-01,56.8,MT,Montana
+S Glacier,Exists,0.277708,,48.434175,-121.031639,2006-08-01,56.8,WA,Washington
+Irving Glacier,Exists,0.163342,,44.139479,-121.780159,2006-08-01,56.8,OR,Oregon
+Shepard Glacier,Exists,0.200258,,48.86376,-113.860651,2006-08-01,56.8,MT,Montana
+Teepe Glacier,Exists,0.059131,,43.734897,-110.796767,2006-08-01,56.8,WY,Wyoming
+Watkins Glacier,Exists,0.046848,,41.398336,-122.177951,2006-08-01,56.8,CA,California
+Butterfly Glacier,Exists,2.12484,,48.07771,-121.023259,2006-08-01,56.8,WA,Washington
+Williwakas Glacier,Exists,0.125825,,46.80792,-121.706423,2006-08-01,56.8,WA,Washington
+Williwakas Glacier,Exists,0.125825,,46.80792,-121.706423,2006-08-01,56.8,IA,Iowa
+Gotchen Glacier,Exists,0.254019,,46.164795,-121.47687,2006-08-01,56.8,WA,Washington
+Wintun Glacier,Exists,1.00816,,41.40923,-122.192792,2006-08-01,56.8,CA,California
+Noisy Creek Glacier,Exists,2.8185,,48.668289,-121.501347,2006-08-01,56.8,WA,Washington
+North Klawatti Glacier,Exists,1.75758,,48.574237,-121.092108,2006-08-01,56.8,WA,Washington
+Tahoma Glacier,Exists,7.68081,,46.825292,-121.834941,2006-08-01,56.8,AL,Alabama
+Tahoma Glacier,Exists,7.68081,,46.825292,-121.834941,2006-08-01,56.8,WA,Washington
+Mammoth Glacier,Exists,2.53801,,43.172909,-109.677813,2006-08-01,56.8,WY,Wyoming
+Mammoth Glacier,Exists,2.53801,,43.172909,-109.677813,2006-08-01,56.8,AZ,Arizona
+Heap Steep Glacier,Gone,0.162069,1441756800.0,43.176863,-109.615849,2006-08-01,56.8,WY,Wyoming
+Heap Steep Glacier,Gone,0.162069,1441756800.0,43.176863,-109.615849,2006-08-01,56.8,ID,Idaho
+Heap Steep Glacier,Gone,0.162069,1441756800.0,43.176863,-109.615849,2006-08-01,56.8,IN,Indiana
+Grasshopper Glacier MT,Exists,0.263507,,45.052815,-109.575972,2006-08-01,56.8,IL,Illinois
+Grasshopper Glacier MT,Exists,0.263507,,45.052815,-109.575972,2006-08-01,56.8,TX,Texas
+Grasshopper Glacier MT,Exists,0.263507,,45.052815,-109.575972,2006-08-01,56.8,PA,Pennsylvania
+Grasshopper Glacier MT,Exists,0.263507,,45.052815,-109.575972,2006-08-01,56.8,NY,New York
+Grasshopper Glacier MT,Exists,0.263507,,45.052815,-109.575972,2006-08-01,56.8,SD,South Dakota
+Grasshopper Glacier MT,Exists,0.263507,,45.052815,-109.575972,2006-08-01,56.8,MO,Missouri
+Grasshopper Glacier MT,Exists,0.263507,,45.052815,-109.575972,2006-08-01,56.8,MN,Minnesota
+Grasshopper Glacier MT,Exists,0.263507,,45.052815,-109.575972,2006-08-01,56.8,NE,Nebraska
+Grasshopper Glacier MT,Exists,0.263507,,45.052815,-109.575972,2006-08-01,56.8,MT,Montana
+Wolf Glacier,Exists,0.525853,,45.150988,-109.902786,2006-08-01,56.8,MT,Montana
+Jerry Glacier,Exists,0.523374,,48.744132,-120.913023,2006-08-01,56.8,WA,Washington
+Inter Glacier,Exists,0.788303,,46.884806,-121.71782,2006-08-01,56.8,WA,Washington
+Lower Curtis Glacier,Exists,0.558265,,48.821326,-121.617797,2006-08-01,56.8,WA,Washington
+Dark Glacier,Exists,0.677829,,48.265652,-120.896064,2006-08-01,56.8,WA,Washington
+Vulture Glacier,Exists,0.360351,,48.824591,-114.020847,2006-08-01,56.8,MT,Montana
+Gray Wolf Glacier,Exists,0.13033,,47.291955,-113.869722,2006-08-01,56.8,MT,Montana
+Upper Curtis Glacier,Exists,0.314954,,48.830249,-121.616202,2006-08-01,56.8,WA,Washington
+Sundance Glacier,Exists,0.644016,,45.102406,-109.659324,2006-08-01,56.8,MT,Montana
+Falling Ice Glacier,Exists,0.134361,,43.834955,-110.769911,2006-08-01,56.8,WY,Wyoming
+David Glacier,Gone,0.072695,747532800.0,47.966675,-120.988315,2006-08-01,56.8,WA,Washington
+Lupfer Glacier,Exists,0.138495,,48.478272,-113.513419,2006-08-01,56.8,MT,Montana
+Ohanapecosh Glacier,Exists,1.3106,,46.834729,-121.657644,2006-08-01,56.8,WA,Washington
+Ohanapecosh Glacier,Exists,1.3106,,46.834729,-121.657644,2006-08-01,56.8,IA,Iowa
+Langille Glacier,Exists,1.11981,,45.400471,-121.68227,2006-08-01,56.8,OR,Oregon
+Quien Sabe Glacier,Exists,0.676965,,48.49985,-121.043409,2006-08-01,56.8,WA,Washington
+Columbia Peak,Gone,0.058102,1441756800.0,47.96187,-121.357805,2006-08-01,56.8,WA,Washington
+Columbia Peak,Gone,0.058102,1441756800.0,47.96187,-121.357805,2006-08-01,56.8,MO,Missouri
+Gooseneck Glacier,Exists,0.330254,,43.181071,-109.654365,2006-08-01,56.8,WY,Wyoming
+Gooseneck Glacier,Exists,0.330254,,43.181071,-109.654365,2006-08-01,56.8,ID,Idaho
+Gooseneck Glacier,Exists,0.330254,,43.181071,-109.654365,2006-08-01,56.8,IN,Indiana
+Squak Glacier,Exists,2.12823,,48.758462,-121.821196,2006-08-01,56.8,WA,Washington
+McCall Glacier,Exists,1.28371,,46.516928,-121.447643,2006-08-01,56.8,WA,Washington
+McCall Glacier,Exists,1.28371,,46.516928,-121.447643,2006-08-01,56.8,IA,Iowa
+Palisade Glacier,Exists,0.835149,,37.097724,-118.515828,2006-08-01,56.8,CA,California
+Company Glacier,Exists,1.25201,,48.249852,-120.870093,2006-08-01,56.8,WA,Washington
+Paradise Glacier,Exists,0.855803,,46.82112,-121.712293,2006-08-01,56.8,WA,Washington
+Paradise Glacier,Exists,0.855803,,46.82112,-121.712293,2006-08-01,56.8,IA,Iowa
+Twins Glacier,Gone,0.490775,1631145600.0,43.154246,-109.657038,2006-08-01,56.8,WY,Wyoming
+Twins Glacier,Gone,0.490775,1631145600.0,43.154246,-109.657038,2006-08-01,56.8,AZ,Arizona
+Mesahchie Glacier,Exists,0.52394,,48.585445,-120.876222,2006-08-01,56.8,WA,Washington
+Middle Palisade Glacier,Exists,0.34665,,37.070972,-118.456867,2006-08-01,56.8,CA,California
+Crook Glacier,Exists,0.15927,,44.080999,-121.696529,2006-08-01,56.8,OR,Oregon
+Gem Glacier,Exists,0.020669,,48.745799,-113.727659,2006-08-01,56.8,MT,Montana
+Okpilak Glacier,Exists,8.95937,,69.131148,-144.047053,2023-01-01,35.11,AK,Alaska
+Fremont Glaciers,Exists,0.152458,,43.147609,-109.619345,2023-02-01,35.76,WY,Wyoming
+Fremont Glaciers,Exists,0.152458,,43.147609,-109.619345,2023-02-01,35.76,AZ,Arizona
+Dinwoody Glaciers,Exists,0.044407,,43.212339,-109.658809,2023-02-01,35.76,WY,Wyoming
+Dinwoody Glaciers,Exists,0.044407,,43.212339,-109.658809,2023-02-01,35.76,ID,Idaho
+Dinwoody Glaciers,Exists,0.044407,,43.212339,-109.658809,2023-02-01,35.76,IN,Indiana
+Tazlina Glacier,Exists,1.18396,,61.346187,-146.50477,2014-12-01,52.53,AK,Alaska
+Tazlina Glacier,Exists,1.18396,,61.346187,-146.50477,2014-12-01,52.53,CO,Colorado
