@@ -1,42 +1,4 @@
-// Fetch the JSON data
-d3.json("https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/main/Resources/state_dashboard_df.json").then((data) => {
-
-  // Get the dropdown element
-  var dropdown = d3.select("#selDataset");
-
-  // Extract unique glacier names
-  var uniqueGlacNames = [...new Set(data.map(item => item["Glacier Name"]))];
-
-  // Loop through the unique glacier names and append each to the dropdown
-  uniqueGlacNames.forEach((glac_name) => {
-    dropdown.append("option").text(glac_name).property("value", glac_name);
-  });
-});
-
-function optionChanged(glac_name) {
-  // Fetch the JSON data
-  d3.json("https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/main/Resources/state_dashboard_df.json").then((data) => {
-
-    // Filter the data for the object with the selected glacier name
-    var filteredData = data.filter(item => item["Glacier Name"] === glac_name)[0];
-
-    // Select the panel with id of `#sample-metadata`
-    var panel = d3.select("#sample-metadata");
-
-    // Clear any existing metadata
-    panel.html("");
-
-    // Append the desired fields in the specified format
-panel.append("h6").html(`<b>Date of Area Analysis:</b> ${filteredData["Area Analysis Date"]}`);
-panel.append("h6").html(`<b>Area:</b> ${filteredData["Area"]} km²`);
-panel.append("h6").html(`<b>Location:</b> ${filteredData["state_name"]}`);
-    
-
-    // Set the view of the map to the coordinates of the selected glacier
-    map.setView([filteredData["Latitude"], filteredData["Longitude"]], 10); // 5 is the zoom level
-  });
-}
-
+// Initialize the map
 var map = L.map('map').setView([47.7511, -120.7401], 4); // Center on Washington State
 
 // Add a base layer to the map
@@ -45,15 +7,13 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Fetch the JSON data
-d3.json("https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/main/Resources/state_dashboard_df.json").then((data) => {
+const dataUrl = "https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/main/Resources/state_dashboard_df.json";
 
-    // Get the dropdown element
-    var dropdown = d3.select("#selDataset");
-
-    // Extract unique glacier names
-    var uniqueGlacNames = [...new Set(data.map(item => item["Glacier Name"]))];
-
-    // Loop through the unique glacier names and append each to the dropdown
+// Load the data
+d3.json(dataUrl).then((data) => {
+    // Populate the dropdown menu
+    const dropdown = d3.select("#selDataset");
+    const uniqueGlacNames = [...new Set(data.map(item => item["Glacier Name"]))];
     uniqueGlacNames.forEach((glac_name) => {
         dropdown.append("option").text(glac_name).property("value", glac_name);
     });
@@ -64,7 +24,94 @@ d3.json("https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/m
             color: 'blue',
             fillColor: '#888',
             fillOpacity: 0.5,
-            radius: 3000 // Adjust radius as needed
+            radius: 3000 
         }).addTo(map).bindPopup(`<b>${glacier["Glacier Name"]}</b><br>Status: ${glacier["Glacier Exists?"]}`);
     });
+
+    // Initialize the temperature plot
+    initializeTemperaturePlot(data);
 });
+
+// Handle dropdown changes
+function optionChanged(glac_name) {
+    d3.json(dataUrl).then((data) => {
+        const filteredData = data.find(item => item["Glacier Name"] === glac_name);
+        const panel = d3.select("#sample-metadata");
+        panel.html("");
+        panel.append("h6").html(`<b>Date of Area Analysis:</b> ${filteredData["Area Analysis Date"]}`);
+        panel.append("h6").html(`<b>Area:</b> ${filteredData["Area"]} km²`);
+        panel.append("h6").html(`<b>Location:</b> ${filteredData["state_name"]}`);
+        map.setView([filteredData["Latitude"], filteredData["Longitude"]], 10);
+    });
+}
+
+// Function to initialize the temperature plot
+function initializeTemperaturePlot(data) {
+    const margin = { top: 25, right: 0, bottom: 60, left: 200 },
+          width = 750 - margin.left - margin.right,
+          height = 500 - margin.top - margin.bottom;
+
+    const svg = d3.select("#temperature-plot")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .append("g")
+        .attr("transform", `translate(${margin.left}, ${margin.top})`);
+
+    const parseDate = d3.timeParse("%Y-%m-%d");
+
+    data.forEach(d => {
+        d.date = parseDate(d["Area Analysis Date"]);
+        d.temperature = +d["Temperature in F"]; 
+    });
+
+    data.sort((a, b) => a.date - b.date);
+
+    const xScale = d3.scaleBand()
+        .domain(data.map(d => d.date))
+        .range([0, width])
+        .padding(0.1);
+
+    const yScale = d3.scaleLinear()
+        .domain([0, d3.max(data, d => d.temperature)])
+        .range([height, 0]);
+
+    const colorScale = d3.scaleLinear()
+        .domain([d3.min(data, d => d.temperature), d3.max(data, d => d.temperature)])
+        .range(["lightblue", "darkred"]);
+
+    svg.selectAll(".bar")
+        .data(data)
+        .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", d => xScale(d.date))
+        .attr("y", d => yScale(d.temperature))
+        .attr("width", xScale.bandwidth())
+        .attr("height", d => height - yScale(d.temperature))
+        .attr("fill", d => colorScale(d.temperature));
+
+    const xAxis = d3.axisBottom(xScale).tickFormat(d3.timeFormat("%b %Y"));
+    svg.append("g")
+        .attr("transform", `translate(0, ${height})`)
+        .call(xAxis)
+        .selectAll("text")
+        .attr("transform", "rotate(-45)")
+        .style("text-anchor", "end");
+
+    svg.append("g")
+        .call(d3.axisLeft(yScale))
+        .append("text")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 0 - margin.left)
+        .attr("x", 0 - (height / 2))
+        .attr("dy", "1em")
+        .style("text-anchor", "middle")
+        .text("Temperature (F)");
+
+    svg.append("text")
+        .attr("x", (width / 2))
+        .attr("y", -10)
+        .attr("text-anchor", "middle")
+        .style("font-size", "18px")
+        .text("Temperature Over Time");
+}
