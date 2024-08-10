@@ -24,7 +24,7 @@ d3.json(dataUrl).then((data) => {
             color: 'blue',
             fillColor: '#888',
             fillOpacity: 0.5,
-            radius: 3000 // Adjust radius as needed
+            radius: 3000 
         }).addTo(map).bindPopup(`<b>${glacier["Glacier Name"]}</b><br>Status: ${glacier["Glacier Exists?"]}`);
     });
 
@@ -62,7 +62,7 @@ function initializeTemperaturePlot(data) {
 
     data.forEach(d => {
         d.date = parseDate(d["Area Analysis Date"]);
-        d.temperature = +d["Temperature in F"]; // Convert to number
+        d.temperature = +d["Temperature in F"]; 
     });
 
     data.sort((a, b) => a.date - b.date);
