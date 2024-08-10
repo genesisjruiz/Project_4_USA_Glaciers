@@ -47,8 +47,8 @@ function optionChanged(glac_name) {
 
 // Function to initialize the temperature plot
 function initializeTemperaturePlot(data) {
-    const margin = { top: 20, right: 60, bottom: 60, left: 50 },
-          width = 700 - margin.left - margin.right,
+    const margin = { top: 25, right: 0, bottom: 60, left: 200 },
+          width = 750 - margin.left - margin.right,
           height = 500 - margin.top - margin.bottom;
 
     const svg = d3.select("#temperature-plot")
