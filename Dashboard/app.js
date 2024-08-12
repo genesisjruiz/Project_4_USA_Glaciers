@@ -7,7 +7,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 // Fetch the JSON data
-const dataUrl = "https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/main/Resources/state_dashboard_df.json";
+const dataUrl = "https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/main/Dashboard/Resources/dashboard_df.json";
 
 // Load the data
 d3.json(dataUrl).then((data) => {
