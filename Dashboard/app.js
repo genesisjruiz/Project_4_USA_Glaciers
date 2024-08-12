@@ -45,7 +45,6 @@ function optionChanged(glac_name) {
     });
 }
 //******************* */
-
 // 1. Set up SVG dimensions and margins
 const margin = { top: 50, right: 30, bottom: 60, left: 70 },
   width = 960 - margin.left - margin.right,
@@ -71,64 +70,62 @@ d3.json("https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/m
       d.value = +d.Value;
     });
 
-    // 5. Set up scales
+    // 5. Preprocess data to calculate average temperature per year
+    const dataByYear = d3.rollup(data, v => d3.mean(v, d => d.value), d => d.date.getFullYear());
+
+    // 6. Set up scales (update x-scale domain)
     const x = d3.scaleBand() 
-      .domain(data.map(d => d.date))
+      .domain(Array.from(dataByYear.keys())) // Use years as domain
       .range([0, width])
       .padding(0.1);
     const y = d3.scaleLinear()
-      .domain([0, d3.max(data, d => d.value)])
-      .range([height, 0]);   
+      .domain([0, d3.max(dataByYear.values())]) // Use max average temperature
+      .range([height, 0]);
 
-      const colorScale = d3.scaleSequential()
-      .domain([d3.max(data, d => d.value), d3.min(data, d => d.value)])
-      .interpolator(d3.interpolateRdYlBu);
-    
-    // 6. Create axes
+    const colorScale = d3.scaleSequential()
+      .domain([d3.max(dataByYear.values()), d3.min(dataByYear.values())]) // Update color scale domain
+      .interpolator(d3.interpolateRdYlBu); 
+
+    // 7. Create axes
     svg.append("g")
       .attr("transform", `translate(0,${height})`)
-      .call(d3.axisBottom(x).tickFormat(d => d3.timeFormat("%Y")(d)) // Directly format date to year in tickFormat
-    );
-    
-    
-      svg.append("g")
-      .call(d3.axisLeft(y));   
+      .call(d3.axisBottom(x)); // No need for tickFormat, x-scale already has years
 
+    svg.append("g")
+      .call(d3.axisLeft(y)); 
 
-    // 7. Append bars
+    // 8. Append bars (update data binding and y-value)
     svg.selectAll(".bar")
-    .data(data)
-    .enter().append("rect")
-      .attr("class", "bar")
-      .attr("x", d => x(d.date))
-      .attr("width", x.bandwidth())
-      .attr("y", d => y(d.value))
-      .attr("height", d => height - y(d.value))
-      .attr("fill", d => colorScale(d.value)); // Set fill color based on temperature
-  
+      .data(Array.from(dataByYear)) // Bind the processed data
+      .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", d => x(d[0]))    // Use the year from the dataByYear entry
+        .attr("width", x.bandwidth())
+        .attr("y", d => y(d[1]))    // Use the average temperature
+        .attr("height", d => height - y(d[1]))
+        .attr("fill", d => colorScale(d[1])); 
+    // 9. Calculate trend line data
+    //import { regressionLinear } from 'd3-regression';
+    const trendlineData = d3.regressionLinear()
+      .x(d => x(d[0]) + x.bandwidth() / 2) // Center of the bar on x-axis
+      .y(d => y(d[1]))(Array.from(dataByYear));
 
-    // 8. Add title
-    svg.append("text")
-        .attr("x", (width / 2))             
-        .attr("y", 0 - (margin.top / 2))
-        .attr("text-anchor", "middle")  
-        .style("font-size", "16px") 
-        .style("text-decoration", "underline")  
-        .text("Temperature over Time");
+    // 10. Create trend line generator
+    
+    const trendline = d3.line()
+      .x(d => d[0])
+      .y(d => d[1]);
 
-    // 9. Add X axis label
-    svg.append("text")             
-        .attr("transform", `translate(${width / 2}, ${height + margin.top})`)
-        .style("text-anchor", "middle")
-        .text("Dates From 1990 to 2024");
+    // 11. Append trend line
+    svg.append("path")
+    .datum(trendlineData)
+    .attr("fill", "none")
+    .attr("stroke", "red")
+    .attr("stroke-width", 2)
+    .attr("d", trendline);
+        
 
-    // 10. Add Y axis label
-    svg.append("text")
-        .attr("transform", "rotate(-90)")
-        .attr("y", 0 - margin.left)
-        .attr("x",0 - (height / 2))
-        .attr("dy", "1em")
-        .style("text-anchor", "middle")
-        .text("Temperature (F)");
   })
   .catch(error => console.error(error));
+
+
