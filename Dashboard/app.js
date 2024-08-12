@@ -93,6 +93,23 @@ d3.json("https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/m
 
     svg.append("g")
       .call(d3.axisLeft(y)); 
+    //Add Y axis label 
+    svg.append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 0 - margin.left)
+      .attr("x",0 - (height / 2))
+      .attr("dy", "1em")
+      .style("text-anchor", "middle")
+      .text("Temperature(F)"); 
+
+    //  Add title 
+    svg.append("text")
+    .attr("x", (width / 2))             
+    .attr("y", 0 - (margin.top / 2))
+    .attr("text-anchor", "middle")  
+    .style("font-size", "16px") 
+    .style("text-decoration", "underline")  
+    .text("Average Temperature");
 
     // 8. Append bars (update data binding and y-value)
     svg.selectAll(".bar")
