@@ -80,15 +80,18 @@ d3.json("https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/m
       .domain([0, d3.max(data, d => d.value)])
       .range([height, 0]);   
 
-    const colorScale = d3.scaleSequential()
-      .domain([0, d3.max(data, d => d.value)]) // Map temperature range to colors
-      .interpolator(d3.interpolateRdBu);       // Use blue color interpolation (you can change this)
+      const colorScale = d3.scaleSequential()
+      .domain([d3.max(data, d => d.value), d3.min(data, d => d.value)])
+      .interpolator(d3.interpolateRdYlBu);
     
     // 6. Create axes
     svg.append("g")
       .attr("transform", `translate(0,${height})`)
-      .call(d3.axisBottom(x).tickFormat(d3.timeFormat("%Y-%m-%d")));
-    svg.append("g")
+      .call(d3.axisBottom(x).tickFormat(d => d3.timeFormat("%Y")(d)) // Directly format date to year in tickFormat
+    );
+    
+    
+      svg.append("g")
       .call(d3.axisLeft(y));   
 
 
