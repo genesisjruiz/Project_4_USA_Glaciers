@@ -44,74 +44,88 @@ function optionChanged(glac_name) {
         map.setView([filteredData["Latitude"], filteredData["Longitude"]], 10);
     });
 }
+//******************* */
 
-// Function to initialize the temperature plot
-function initializeTemperaturePlot(data) {
-    const margin = { top: 25, right: 0, bottom: 60, left: 200 },
-          width = 750 - margin.left - margin.right,
-          height = 500 - margin.top - margin.bottom;
+// 1. Set up SVG dimensions and margins
+const margin = { top: 50, right: 30, bottom: 60, left: 70 },
+  width = 960 - margin.left - margin.right,
+  height = 500 - margin.top - margin.bottom;
 
-    const svg = d3.select("#temperature-plot")
-        .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
-        .append("g")
-        .attr("transform", `translate(${margin.left}, ${margin.top})`);
+// 2. Create SVG element within the #temperature-plot div
+const svg = d3.select("#temperature-plot")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", `translate(${margin.left},${margin.top})`);
 
-    const parseDate = d3.timeParse("%Y-%m-%d");
 
+// 3. Load data from JSON URL
+d3.json("https://raw.githubusercontent.com/genesisjruiz/Project_4_USA_Glaciers/main/Dashboard/Resources/json_temperature_data.json")
+  .then(data => {
+
+    // 4. Parse Date and Value
+    const parseTime = d3.timeParse("%Y-%m-%d");
     data.forEach(d => {
-        d.date = parseDate(d["Area Analysis Date"]);
-        d.temperature = +d["Temperature in F"]; 
+      d.date = parseTime(d.Date);
+      d.value = +d.Value;
     });
 
-    data.sort((a, b) => a.date - b.date);
+    // 5. Set up scales
+    const x = d3.scaleBand() 
+      .domain(data.map(d => d.date))
+      .range([0, width])
+      .padding(0.1);
+    const y = d3.scaleLinear()
+      .domain([0, d3.max(data, d => d.value)])
+      .range([height, 0]);   
 
-    const xScale = d3.scaleBand()
-        .domain(data.map(d => d.date))
-        .range([0, width])
-        .padding(0.1);
+    const colorScale = d3.scaleSequential()
+      .domain([0, d3.max(data, d => d.value)]) // Map temperature range to colors
+      .interpolator(d3.interpolateRdBu);       // Use blue color interpolation (you can change this)
+    
+    // 6. Create axes
+    svg.append("g")
+      .attr("transform", `translate(0,${height})`)
+      .call(d3.axisBottom(x).tickFormat(d3.timeFormat("%Y-%m-%d")));
+    svg.append("g")
+      .call(d3.axisLeft(y));   
 
-    const yScale = d3.scaleLinear()
-        .domain([0, d3.max(data, d => d.temperature)])
-        .range([height, 0]);
 
-    const colorScale = d3.scaleLinear()
-        .domain([d3.min(data, d => d.temperature), d3.max(data, d => d.temperature)])
-        .range(["lightblue", "darkred"]);
-
+    // 7. Append bars
     svg.selectAll(".bar")
-        .data(data)
-        .enter().append("rect")
-        .attr("class", "bar")
-        .attr("x", d => xScale(d.date))
-        .attr("y", d => yScale(d.temperature))
-        .attr("width", xScale.bandwidth())
-        .attr("height", d => height - yScale(d.temperature))
-        .attr("fill", d => colorScale(d.temperature));
+    .data(data)
+    .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", d => x(d.date))
+      .attr("width", x.bandwidth())
+      .attr("y", d => y(d.value))
+      .attr("height", d => height - y(d.value))
+      .attr("fill", d => colorScale(d.value)); // Set fill color based on temperature
+  
 
-    const xAxis = d3.axisBottom(xScale).tickFormat(d3.timeFormat("%b %Y"));
-    svg.append("g")
-        .attr("transform", `translate(0, ${height})`)
-        .call(xAxis)
-        .selectAll("text")
-        .attr("transform", "rotate(-45)")
-        .style("text-anchor", "end");
+    // 8. Add title
+    svg.append("text")
+        .attr("x", (width / 2))             
+        .attr("y", 0 - (margin.top / 2))
+        .attr("text-anchor", "middle")  
+        .style("font-size", "16px") 
+        .style("text-decoration", "underline")  
+        .text("Temperature over Time");
 
-    svg.append("g")
-        .call(d3.axisLeft(yScale))
-        .append("text")
+    // 9. Add X axis label
+    svg.append("text")             
+        .attr("transform", `translate(${width / 2}, ${height + margin.top})`)
+        .style("text-anchor", "middle")
+        .text("Dates From 1990 to 2024");
+
+    // 10. Add Y axis label
+    svg.append("text")
         .attr("transform", "rotate(-90)")
         .attr("y", 0 - margin.left)
-        .attr("x", 0 - (height / 2))
+        .attr("x",0 - (height / 2))
         .attr("dy", "1em")
         .style("text-anchor", "middle")
         .text("Temperature (F)");
-
-    svg.append("text")
-        .attr("x", (width / 2))
-        .attr("y", -10)
-        .attr("text-anchor", "middle")
-        .style("font-size", "18px")
-        .text("Temperature Over Time");
-}
+  })
+  .catch(error => console.error(error));
