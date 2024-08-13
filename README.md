@@ -6,7 +6,7 @@ This project focuses on analyzing glacier data in the USA, utilizing various dat
 #### Data Sets
 - **Glacier Dataset**: NASA - NSIDC Data (https://nsidc.org/home)
 - **Temperature Dataset**: NCEI Climate at a Glance (https://www.ncei.noaa.gov)
-- **Location Data**: Simple Maps US Cities (https://www.ncei.noaa.gov)
+- **Location Data**: Simple Maps US Cities (https://simplemaps.com/data/us-cities)
 
 #### Repository Structure
 - **Analysis**: Contains Statistical Analysis workbook
