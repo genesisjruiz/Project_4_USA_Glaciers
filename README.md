@@ -4,9 +4,9 @@
 This project focuses on analyzing glacier data in the USA, utilizing various data sources and machine learning techniques to predict glacier types and visualizing USA glacier related trends such as location, area of glacier, elevation and temperature.
 
 #### Data Sets
-- **Glacier Dataset**: NASA - NSIDC Data
-- **Temperature Dataset**: NCEI Climate at a Glance
-- **Location Data**: Simple Maps US Cities
+- **Glacier Dataset**: NASA - NSIDC Data (https://nsidc.org/home)
+- **Temperature Dataset**: NCEI Climate at a Glance (https://www.ncei.noaa.gov)
+- **Location Data**: Simple Maps US Cities (https://www.ncei.noaa.gov)
 
 #### Repository Structure
 - **Analysis**: Contains Statistical Analysis workbook
