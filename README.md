@@ -1,10 +1,10 @@
 ### Project 4: USA Glaciers
 
 #### Overview
-This project focuses on analyzing glacier data in the USA, utilizing various data sources and machine learning techniques to predict glacier types and visualize trends.
+This project focuses on analyzing glacier data in the USA, utilizing various data sources and machine learning techniques to predict glacier types and visualizing USA glacier related trends such as location, area of glacier, elevation and temperature.
 
 #### Data Sets
-- **Glacier Dataset**: NSIDC Data
+- **Glacier Dataset**: NASA - NSIDC Data
 - **Temperature Dataset**: NCEI Climate at a Glance
 - **Location Data**: Simple Maps US Cities
 
@@ -48,5 +48,4 @@ This project focuses on analyzing glacier data in the USA, utilizing various dat
 - **Recommendation**: Use global data for a more comprehensive analysis.
 
 #### Conclusion
-This project demonstrates the process of data cleaning, modeling, and visualization to analyze glacier data in the USA. The model achieved high predictive accuracy, and the visualizations provide insights into glacier trends and distributions. Future work could expand the scope to include global data for a more comprehensive analysis.
-```
+This project showcases the process of data cleaning, modeling, and visualization to analyze glacier data in the United States. The model accurately predicted glacier type. The model demonstrated high accuracy in predicting glacier types. Visual representations, integrating variables such as temperature, area, geographical location, and elevation, provided significant insights into glacier trends. To further enrich these findings, integrating higher-quality data, additional environmental factors, and expanding the analysis to include global data over extended periods could deepen our understanding of glacier dynamics and enhance our predictive capabilities regarding their formation and evolution.
